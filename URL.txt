@@ -1,0 +1,8 @@
+[
+    {
+        "URL": "https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/NextStage_22%EF%BD%9E24%E7%AB%A0.txt",
+        "Title": "形容詞、名詞、前置詞のイディオム",
+        "ID": "L-ENG-H2-NxtSt-qaTg",
+        "Ex": "Next Stage 22~24章"
+    }
+]
