@@ -1,0 +1,93 @@
+【古典】助動詞とその意味
+古文読解の基礎となる助動詞を学ぼう
+総合国語総合XuYA
+助動詞
+意味
+解説
+る
+受け身、自発、可能、尊敬
+<b>未然形接続</b>。打消を伴うと「可能」、心情語に伴うと「自発」、「に」などの動作主がある場合は「受け身」の意味になりやすい。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>れ</td><td>れ</td><td>る</td><td>るる</td><td>るれ</td><td>れよ</td></tr></table><br/>
+らる
+受け身、自発、可能、尊敬
+<b>未然形接続</b>。打消を伴うと「可能」、心情語に伴うと「自発」、「に」などの動作主がある場合は「受け身」の意味になりやすい。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>られ</td><td>られ</td><td>らる</td><td>らるる</td><td>らるれ</td><td>られよ</td></tr></table><br/>
+す
+使役、尊敬
+<b>未然形接続</b>。「たまふ」、「おはす」、「おはします」が使われている場合は「尊敬」になりやすい。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>せ</td><td>せ</td><td>す</td><td>する</td><td>すれ</td><td>せよ</td></tr></table><br/>
+さす
+使役、尊敬
+<b>未然形接続</b>。「たまふ」、「おはす」、「おはします」が使われている場合は「尊敬」になりやすい。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>させ</td><td>させ</td><td>さす</td><td>さする</td><td>さすれ</td><td>させよ</td></tr></table><br/>
+しむ
+使役、尊敬
+<b>未然形接続</b>。「たまふ」、「おはす」、「おはします」が使われている場合は「尊敬」になりやすい。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>しめ</td><td>しめ</td><td>しむ</td><td>しむる</td><td>しむれ</td><td>しめよ</td></tr></table><br/>
+ず
+打消
+<b>未然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（ず）</td><td>ず</td><td>ず</td><td>ぬ</td><td>ね</td><td></td></tr><tr><td>ざら</td><td>ざり</td><td></td><td>ざる</td><td>ざれ</td><td>ざれ</td></tr></table><br/>
+じ
+打消推量、打消意志
+<b>未然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>○</td><td>じ</td><td>じ</td><td>じ</td><td>○</td></tr></table><br/>
+む
+推量、意志、勧誘、仮定、婉曲、適当
+<b>未然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（ま）</td><td>○</td><td>む</td><td>む</td><td>む</td><td>め</td></tr></table><br/>
+むず
+推量、意志、勧誘、仮定、婉曲、適当
+<b>未然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>○</td><td>むず</td><td>むずる</td><td>むずれ</td><td>○</td></tr></table><br/>
+まし
+反実仮想
+<b>未然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>ましか</td><td>○</td><td>まし</td><td>まし</td><td>ましか</td><td>○</td></tr></table><br/>
+まほし
+願望
+<b>未然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（まほしく）</td><td>まほしく</td><td>まほし</td><td>まほしき</td><td>まほしけれ</td><td rowspan="2">○</td></tr><tr><td>まほしから</td><td>まほしかり</td><td></td><td>まほしかる</td><td></td></tr></table><br/>
+き
+過去
+<b>連用形接続</b>。直接（体験）過去を示す。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（せ）</td><td>○</td><td>き</td><td>し</td><td>しか</td><td>○</td></tr></table><br/>
+けり
+過去、詠嘆
+<b>連用形接続</b>。「詠嘆」は和歌や会話文中に多い。間接（伝聞）過去を示す。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（けら）</td><td>○</td><td>けり</td><td>ける</td><td>けれ</td><td>○</td></tr></table><br/>
+つ
+完了、強意
+<b>連用形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>て</td><td>て</td><td>つ</td><td>つる</td><td>つれ</td><td>てよ</td></tr></table><br/>
+ぬ
+完了、強意
+<b>連用形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>な</td><td>に</td><td>ぬ</td><td>ぬる</td><td>ぬれ</td><td>ね</td></tr></table><br/>
+(連用形)＋たり
+存続、完了
+<table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>たら</td><td>たり</td><td>たり</td><td>たる</td><td>たれ</td><td>たれ</td></tr></table><br/>
+けむ
+過去推量、過去の原因推量
+<b>連用形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>○</td><td>けむ</td><td>けむ</td><td>けめ</td><td>○</td></tr></table><br/>
+たし
+願望
+<b>連用形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（たく）</td><td>たく</td><td>たし</td><td>たき</td><td>たけれ</td><td rowspan="2">○</td></tr><tr><td>たから</td><td>たかり</td><td></td><td>（たかる）</td><td></td></tr></table><br/>
+べし
+推量、意志、可能、当然、命令、適当
+<b>終止形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（べく）</td><td>べく</td><td>べし</td><td>べき</td><td>べけれ</td><td rowspan="2">○</td></tr><tr><td>べから</td><td>べかり</td><td></td><td>べかる</td><td></td></tr></table><br/>
+らむ
+現在推量、現在の原因推量
+<b>終止形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>○</td><td>らむ</td><td>らむ</td><td>らめ</td><td>○</td></tr></table><br/>
+らし
+推定
+<b>終止形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>○</td><td>らし</td><td>らし</td><td>らし</td><td>○</td></tr></table><br/>
+めり
+推定（視覚）
+<b>終止形接続</b>。語源は「目あり」ではないかとする説がある。<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>（めり）</td><td>めり</td><td>める</td><td>めれ</td><td>○</td></tr></table><br/>
+(終止形)＋なり
+推定（聴覚）
+語源は「音あり」ではないかとする説がある<br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>○</td><td>（なり）</td><td>なり</td><td>なる</td><td>なれ</td><td>○</td></tr></table><br/>
+まじ
+打消推量、打消意志、不可能、打消当然、禁止、不適当
+<b>終止形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（まじく）</td><td>まじく</td><td>まじ</td><td>まじき</td><td>まじけれ</td><td rowspan="2">○</td></tr><tr><td>まじから</td><td>まじかり</td><td></td><td>まじかる</td><td></td></tr></table><br/>
+(連体形・体言)＋なり
+断定、存在
+<table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>なら</td><td>なり</td><td>なり</td><td>なる</td><td>なれ</td><td>なれ</td></tr><tr><td></td><td>に</td><td></td><td></td><td></td><td></td></tr></table><br/>
+(連体形・体言)＋たり
+断定
+<table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>たら</td><td>たり</td><td>たり</td><td>たる</td><td>たれ</td><td>たれ</td></tr><tr><td></td><td>と</td><td></td><td></td><td></td><td></td></tr></table><br/>
+り
+存続、完了
+<b>サ行変格活用動詞の未然形接続、四段活用動詞の已然形接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>ら</td><td>り</td><td>り</td><td>る</td><td>れ</td><td>れ</td></tr></table><br/>
+ごとし
+比況、例示
+<b>連体形・体言接続。助動詞「の」、「が」にも接続する。</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>（ごとく）</td><td>ごとく</td><td>ごとし</td><td>ごとき</td><td>○</td><td>○</td></tr></table><br/>
+やうなり
+比況、例示、様子・状態、婉曲
+<b>連体形、助詞「が」、「の」に接続</b><br/><table class="Q-tb-koten" border="1"><tr><td>未然形</td><td>連用形</td><td>終止形</td><td>連体形</td><td>已然形</td><td>命令形</td></tr><tr><td>やうなり</td><td>やうなり</td><td>やうなり</td><td>やうなる</td><td>やうなれ</td><td rowspan="2">○</td></tr><tr><td></td><td>やうに</td><td></td><td></td><td></td></tr></table><br/>
