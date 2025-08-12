@@ -5,11 +5,6 @@
         "ID": "L-ENG-H2-NxtSt-qaTg",
         "Ex": "Next Stage 22~24章"
     },
-    {"URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/%E8%8B%B1%E6%A4%9C%E6%BA%96%E4%B8%80%E7%B4%9A%E5%8D%98%E8%AA%9E.txt",
-    "Title":"【英語】英検準一級単語",
-    "ID":"L-ENG-H3-N-AzxS",
-    "Ex":"英検準一級合格に必要な単語を学ぼう"
-    },
     {
     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/%E5%8F%A4%E5%85%B8%E5%8A%A9%E5%8B%95%E8%A9%9E.txt",
     "Title":"【古典】古典助動詞の意味",
