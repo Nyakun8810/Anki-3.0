@@ -1,0 +1,150 @@
+Next Stage 27
+重要多義語
+W2xYqw
+問題
+解答
+解説
+(a) Names in the data base are in alphabetical (　　).<br>(b) What did the president (　　) him to do?<choice 0:order|1:fire|2:deal|3:issue|>
+order
+◆Next Stage〈1470〉　(a) orderは名詞で「順序／順番」の意味。(b) orderは動詞で「…を命じる」の意味。【訳】(a) そのデータベースでは名前はアルファベット順になっています。／(b) 社長は彼に何をするように命じたのですか。
+(a) The TV drama was based on a true (　　) from World War II.<br>(b) Her apartment is on the ninth (　　).<choice 0:story|1:fire|2:spell|3:order|>
+story
+◆Next Stage〈1473〉　(a) storyは名詞で「物語」の意味。(b) storyは名詞で「階」の意味。【訳】(a) そのテレビドラマは第2次世界大戦の実話に基づいていた。／(b) 彼女の部屋は9階にあります。
+(a) I have written several novels in the (　　) five years.<br>(b) He is the (　　) man to do such a foolish thing.(c) At long (　　), he has found his lost sweetheart.<br>(d) The battery of this shaver will (　　) about one year.　〈明治大〉<choice 0:last|1:point|2:case|3:flat|>
+last
+◇Next Stage〈整理89〉（Winning Spirit〈530〉）
+(a) If I could find her (　　), I would send her an invitation to the party.<br>(b) The professor gave an (　　) at the ceremony.<br>(c) We need to (　　) the problem of climate change now.<choice 0:address|1:figure|2:order|3:fire|>
+address
+◆Next Stage〈1474〉【訳】(a) 彼女の住所がわかっていれば，パーティーの招待状を送るのに。／(b) 教授はその式典で演説を行った。／(c) 私たちは気候変動の問題にすぐに取りかかる必要がある。
+(a) The baby was (　　) asleep when I entered the room.<br>(b) She was so frightened that she couldn't make a (　　).<br>(c) Their complaints (　　) reasonable to me.　〈実践女子大〉<choice 0:sound|1:fine|2:mind|3:stand|>
+sound
+◇Next Stage〈1442〉（全解説 英文法ファイナル問題集　標準編〈438〉）
+(a) At first, can you (　　) your full name and phone number?<br>(b) Those who live here can enter the (　　) university with a small tuition fee.<br>(c) The company has been in a bad (　　) for a couple of years because of the recession.<choice 0:state|1:last|2:story|3:table|>
+state
+◆Next Stage〈1472〉　(a) stateは動詞で「…を述べる」の意味。(b) stateは名詞で「州」の意味。(c) stateは名詞で「状態」の意味。【訳】(a) 最初に，氏名と電話番号を言ってください。／(b) その州に住んでいる人は，安い授業料で州立大学に入学することができる。／(c) その会社は，不況のためにこの2，3年悪い状態である。
+(a) Can you clear the (　　) as quickly as possible?<br>(b) The figures of births in this city last year are shown in the (　　) above.<choice 0:table|1:change|2:book|3:leave|>
+table
+◆Next Stage〈1460〉【訳】(a) 急いでテーブルを片づけていただけませんか。／(b) この市の昨年の出生数は上の表に示されています。
+(a) We visited the (　　) of our grandparents in the cemetery.<br>(b) She had a (　　) expression on her face.<choice 0:grave|1:fire|2:place|3:flat|>
+grave
+◆Next Stage〈1437〉　(a) graveは名詞で「墓」の意味。(b) graveは形容詞で「（顔つき・態度などが）重々しい／深刻な」の意味。【訳】(a) 私たちは共同墓地に祖父母の墓を訪ねた。／(b) 彼女は顔に重々しい表情を浮かべた。
+(a) He took three days (　　) from work.<br>(b) It is time to (　　) the office.　〈明治大〉<choice 0:leave|1:last|2:mean|3:grave|>
+leave
+◇Next Stage〈1467〉（Best Trainer〈744〉）
+(a) He gave his personal opinion at the meeting from a (　　) point of view.<br>(b) They played a (　　) role in the success of the project.<br>(c) The doctor looks serious today because one of her patients is in (　　) condition.<choice 0:critical|1:can|2:lot|3:call|>
+critical
+◆Next Stage〈1458〉【訳】(a) 彼は会議で批判的な観点から個人的な意見を述べた。／(b) 彼らはその企画の成功に重要な役割を果たした。／(c) 今日患者の一人が危篤状態なのでその医者は深刻な表情をしている。
+(a) In the United Kingdom, people always (　　) “realize” with an “s.”<br>(b) After a short (　　) of fine weather we had a heavy snow.<br>(c) The professor always insists on the need for inflation to stimulate economy as if it were a magic (　　).<choice 0:spell|1:will|2:well|3:call|>
+spell
+◆Next Stage〈1471〉【訳】(a) イギリスではrealizeは常にsを使ってつづる。／(b) 少しの間良い天気が続いた後，大雪になった。／(c) その教授はいつも，魔法の呪文であるかのように，経済を刺激するインフレの必要性を主張する。
+(a) There is (　　) evidence for his guilt.<br>(b) We enjoyed good food at a (　　) price at the Italian restaurant.<choice 0:reasonable|1:elaborate|2:stand|3:can|>
+reasonable
+◆Next Stage〈1464〉【訳】(a) 彼が有罪であるという合理的な証拠がある。／(b) そのイタリア料理店でおいしい料理を手ごろな値段で楽しんだ。
+(a) He told me the (　　) to the bank.<br>(b) A crying baby will always get his or her (　　).<br>(c) This is the American (　　) of living.<choice 0:way|1:place|2:state|3:leave|>
+way
+◆Next Stage〈1449〉【訳】(a) 彼は私に銀行までの道順を教えてくれた。／(b) 泣いている赤ちゃんは，いつでもわがまま放題にふるまうものです。／(c) これはアメリカ流の生活様式です。
+(a) She (　　) become president of the company next year.<br>(b) My grandfather wrote his (　　) before he died.<br>(c) She seemed to have lost her (　　) to live.<choice 0:will|1:way|2:mind|3:fire|>
+will
+◆Next Stage〈1452〉　(a) willは未来を表す助動詞で「…だろう」の意味。(b) willは名詞で「遺言（書）」の意味。(c) willは名詞で「意欲／意志」の意味。【訳】(a) 彼女は来年，その会社の社長になるでしょう。／(b) 私の祖父は，死ぬ前に遺言書を書いた。／(c) 彼女は，生きる意欲を失っていたようだった。
+(a) You can drink the water from the (　　).<br>(b) She is in the hospital, but I'm sure she'll get (　　) soon.<br>(c) Masako speaks French (　　).<choice 0:well|1:mean|2:deal|3:last|>
+well
+◆Next Stage〈1453〉　(a) wellは名詞で「井戸」の意味。(b) wellは形容詞で「健康で」の意味。get wellで「元気になる」の意味を表す。(c) wellは副詞で「上手に」の意味。【訳】(a) 井戸の水を飲んでもかまいません。／(b) 彼女は入院しているが，きっとすぐ元気になるさ。／(c) マサコは，フランス語を上手に話す。
+(a) It seems to be my (　　) in life.<br>(b) There is a parking (　　) behind the store.<br>(c) This math problem is a (　　) easier than that one.<choice 0:lot|1:last|2:book|3:leave|>
+lot
+◆Next Stage〈1451〉　(a) lotは名詞で「運命」の意味。(b) lotは名詞で「（土地の）一区画」の意味。a parking lotで「駐車場」の意味を表す。(c) a lotは比較級の強調表現で「はるかに…」の意味を表す。（→p.77【整理20】）【訳】(a) それは，人生における私の運命のように思える。／(b) 店の裏手に駐車場があります。／(c) この数学の問題はあの問題よりずっと簡単だ。
+(a) Your answer to my question is quite (　　).<br>(b) The mother told the child to clean the table (　　) away.　〈神戸女子大〉<choice 0:right|1:bill|2:state|3:kind|>
+right
+◇Next Stage〈1440〉（全解説 英語標準問題1100〈1093〉）
+(a) She is notorious for being (　　) to everyone.<br>(b) What does “omotenashi” (　　) in English?<choice 0:mean|1:stand|2:deal|3:end|>
+mean
+◆Next Stage〈1468〉【訳】(a) 彼女は誰に対しても意地が悪いことで有名である。／(b) 「おもてなし」とは英語でどういう意味ですか。
+(a) I (　　) I should arrive there by 2:30.<br>(b) Please look at (　　) 3 which shows yearly imports of corn.<br>(c) The unemployment (　　) is the lowest in ten years.<choice 0:figure|1:issue|2:minute|3:fire|>
+figure
+◆Next Stage〈1465〉【訳】(a) 私は2時30分までにそこに到着するべきだと思う。／(b) トウモロコシの年間輸入量を示す図3をご覧ください。／(c) 失業者数はこの10年で最も少ない。
+(a) I paid a 100-dollar (　　) for speeding.<br>(b) We can see a (　　) view from this hotel.<choice 0:fine|1:fire|2:mine|3:issue|>
+fine
+◆Next Stage〈1466〉【訳】(a) スピード違反で100ドルの罰金を払った。／(b) このホテルからすばらしい眺めを見ることができる。
+(a) Please take off your coat and make yourself at (　　).<br>(b) The novel brought (　　) to me the meaning of true friendship.<choice 0:home|1:mean|2:order|3:book|>
+home
+◆Next Stage〈1446〉　(a) homeは名詞で，at homeは「くつろいで」＝comfortableの意味（→1145）。make oneself at home「くつろぐ」は頻出表現。（→269）(b) homeは副詞で「十分に／痛烈に」の意味。bring A home to B＝bring home to B Aで「AのことをBにしみじみわからせる」の意味。（→1059）【訳】(a) コートを脱いで，くつろいでください。／(b) この小説は私に，真の友情の大切さを痛感させてくれた。
+(a) The opposition parties took a strong (　　) against raising taxes.<br>(b) The teacher asked all the students to (　　) up and bow.<br>(c) There is a big supermarket where the hotel used to (　　).<br>(d) He couldn't (　　) her rude behavior.<choice 0:stand|1:change|2:table|3:company|>
+stand
+◆Next Stage〈1441〉　(a) standは名詞で「立場」の意味。(b) standは動詞で，stand upは「起立する」の意味。(c) standは動詞で「立っている」の意味。(d) standは動詞で「…をがまんする」の意味。この意味では否定文のみで使う。【訳】(a) 野党は，増税に反対する強い立場をとった。／(b) 先生は，すべての生徒に起立しておじぎをするよう求めた。／(c) ホテルが立っていた場所は大きなスーパーマーケットになっている。／(d) 彼は彼女の失礼な態度ががまんならなかった。
+(a) That will (　　) more harm than good.<br>(b) Any ballpoint pen will (　　).<br>(c) She had nothing to (　　) with the crime.<choice 0:do|1:book|2:well|3:end|>
+do
+◆Next Stage〈1455〉　(a) doは他動詞。do harmで「害になる」，do goodで「ためになる」の意味（→573，574）。本問のdo more harm than good「ためになるよりも害になる」も頻出表現。(b) doは自動詞で「間に合う／十分である」の意味。（→584）(c) have nothing to do with A「Aと何の関係もない」は慣用表現として押さえる。（→264）【訳】(a) あれは，利益よりはむしろ害をもたらすだろう。／(b) どんなボールペンでもいいですよ。／(c) 彼女はその犯罪とは無関係だった。
+(a) This sweatshirt isn't (　　).　It's a friend's.<br>(b) Many men were buried alive when there was an accident at the (　　).　〈芝浦工大〉<choice 0:mine|1:point|2:kind|3:change|>
+mine
+◇Next Stage〈1433〉（全解説 英語標準問題1100〈1091〉）
+(a) I should have answered your letter sooner, but it completely slipped my (　　).<br>(b) I asked her if she'd (　　) watching my bag while I washed my hands.<br>(c) Hard work is the best thing to take one's (　　) off his sorrow.　〈早稲田大〉<choice 0:mind|1:point|2:hand|3:sound|>
+mind
+◇Next Stage〈1454〉（全解説 英文法ファイナル問題集　難関大学編〈437〉）
+(a) Can you (　　) out the problem to me?<br>(b) There is no (　　) in crying about it.<br>(c) Try to understand his (　　) of view.<choice 0:point|1:minute|2:sound|3:mine|>
+point
+◆Next Stage〈1456〉【訳】(a) 私に問題点を指摘してくれますか。／(b) そのことで泣いてもむだだ。／(c) 彼の観点を理解するよう努めなさい。
+(a) She was so (　　) that he could not stop looking at her.<br>(b) He is by no means poor, indeed he is (　　) rich.　〈立教大〉<choice 0:pretty|1:point|2:break|3:fire|>
+pretty
+◇Next Stage〈1432〉（全解説 英語標準問題1100〈1090〉）
+(a) The boss will (　　) you if you don't work harder.<br>(b) The photo albums were burned in the (　　).<choice 0:fire|1:figure|2:fine|3:minute|>
+fire
+◆Next Stage〈1434〉　(a) fireは動詞で「…を解雇する」の意味。同意語のdismissと一緒に覚えておこう。(b) fireは名詞で「火事」の意味。【訳】(a) もっと一生懸命働かないと，上司は君を解雇するだろう。／(b) その写真アルバムは火事で焼けてしまった。
+(a) Global warming is a very important (　　) for the world.<br>(b) I read an interesting article about nuclear power in the latest (　　) of the magazine.<br>(c) The company is going to (　　) a press release announcing a new product tomorrow.<choice 0:issue|1:leave|2:grave|3:story|>
+issue
+◆Next Stage〈1461〉　(a) issueは名詞で「問題点」の意味。(b) issueは名詞で「（雑誌などの）号」の意味。(c) issueは動詞で「…を発行する／発表する」の意味。【訳】(a) 地球温暖化は世界にとって大変重要な問題である。／(b) その雑誌の最新号で，原子力発電の興味深い記事を読んだ。／(c) 明日，その会社は新製品を発表するプレスリリースを行うことになっている。
+(a) Someone moved these books; they are not in the right (　　).<br>(b) The radio is out of (　　).<br>(c) May I take your (　　), please?　〈一橋大〉<choice 0:order|1:right|2:deal|3:grave|>
+order
+◇Next Stage〈1470〉（Best Trainer〈745〉）
+(a) The curtain had an (　　) pattern of flowers.<br>(b) He would not (　　) on the reason for his absence.<choice 0:elaborate|1:lot|2:last|3:place|>
+elaborate
+◆Next Stage〈1459〉　(a) elaborateは形容詞で「手の込んだ／複雑な」の意味。(b) elaborateは動詞で「詳しく述べる」の意味。【訳】(a) そのカーテンは複雑な花の模様であった。／(b) 彼は休んだ理由を詳しく述べようとしなかった。
+(a) The theater is only one (　　) from the station on foot.<br>(b) The print is so (　　) that it is difficult to read.<choice 0:minute|1:issue|2:mine|3:right|>
+minute
+◆Next Stage〈1469〉【訳】(a) 劇場は駅から歩いてたったの1分です。／(b) 活字があまりに小さいので読みにくい。
+(a) A service charge is included in the (　　).<br>(b) Can you change a 10 dollar (　　) into singles?<br>(c) A new tax (　　) was passed by Congress yesterday.<choice 0:bill|1:last|2:will|3:mine|>
+bill
+◆Next Stage〈1462〉　(a) billは名詞で「請求書／勘定書」の意味。(b) billは名詞で「紙幣」の意味。(c) billは名詞で「法案」の意味。【訳】(a) サービス料は勘定に含まれています。／(b) 10ドル札を1ドル札に替えてもらえますか。／(c) 新税法案が昨日議会で通過した。
+(a) The problem of crows eating garbage is really getting out of (　　).<br>(b) I have to (　　) him this document by tomorrow.<br>(c) Can you give me a (　　) to move this table?<choice 0:hand|1:mean|2:kind|3:stand|>
+hand
+◆Next Stage〈1445〉　(a) handは名詞で，get out of handは「手に負えなくなる」の意味を表す。（→1168）(b) handは動詞で「…を手渡す／渡す」の意味。(c) handは名詞で「手助け／人手」の意味。この意味では常に単数形で使う。【訳】(a) 生ごみを食べるカラスの問題は，本当に手に負えなくなりつつある。／(b) 明日までに彼にこの文書を渡さなければならない。／(c) このテーブルを動かすのを手伝ってくれませんか。
+(a) I haven't read that (　　) by Ms. Rowling yet.<br>(b) Let's (　　) the plane tickets today.<choice 0:book|1:bill|2:point|3:order|>
+book
+◆Next Stage〈1435〉　(a) bookは名詞で「本」の意味。(b) bookは動詞で「…を予約する」の意味。reserveと同意。【訳】(a) ローリング女史が書いたその本を，まだ私は読んでいない。／(b) 今日，航空券を予約しましょう。
+(a) There will always be a (　　) for you if you come back.<br>(b) I would (　　) her among the world's greatest singers.<br>(c) Is London a nice (　　) to live in?　〈西南学院大〉<choice 0:place|1:flat|2:last|3:grave|>
+place
+◇Next Stage〈1448〉（全解説 英語標準問題1100〈1098〉）
+(a) In this African town, there are many merchants who (　　) in diamonds.<br>(b) This is going to cost you a good (　　) of money.　〈早稲田大〉<choice 0:deal|1:will|2:spell|3:flat|>
+deal
+◇Next Stage〈1447〉（Best Trainer〈741〉）
+(a) The boxer's strength will (　　) to the end of the fight.<br>(b) She is the (　　) person I expected to see there.<br>(c) He was lost in thought for a few minutes, but at (　　) he began to speak.　〈東京電機大〉<choice 0:last|1:flat|2:lot|3:call|>
+last
+◇Next Stage〈整理89〉（Best Trainer〈743〉）
+(a) The beach was (　　) enough to play soccer on.<br>(b) Unfortunately, my bicycle has a (　　) tire.<br>(c) Liz lives in a small (　　) in London.<choice 0:flat|1:last|2:will|3:lot|>
+flat
+◆Next Stage〈1450〉　(a) flatは形容詞で「平らな」の意味。(b) flatは形容詞で「（タイヤなどが）空気の抜けた」の意味。a flat tire「パンクしたタイヤ」で押さえておく。（→1421）(c) flatはイギリス用法の名詞で「アパート」の意味。【訳】(a) その浜辺は，サッカーができるくらい平らだった。／(b) あいにく私の自転車はタイヤがパンクしている。／(c) リズは，ロンドンの小さなアパートに住んでいる。
+(a) I had to offer the shop assistant a 10,000 yen note as I had no small (　　).<br>(b) I asked him to (　　) the time of the appointment.　〈立教大〉<choice 0:change|1:case|2:can|3:grave|>
+change
+◇Next Stage〈1431〉（全解説 英語標準問題1100〈1089〉）
+(a) I have to (　　) my house at 6:00 a.m. for Osaka.<br>(b) In Japan, employees usually have sixteen weeks of maternity (　　).<choice 0:leave|1:lot|2:table|3:last|>
+leave
+◆Next Stage〈1467〉　(a) leaveは動詞で「…を出発する」の意味。(b) leaveは名詞で「休暇／休暇期間」の意味。【訳】(a) 午前6時に大阪に向けて家を出発しなければならない。／(b) 日本では従業員はふつう16週の出産休暇を取る。
+(a) My sister works at a publishing (　　) in New York.<br>(b) Can you keep my dog (　　) until I get back?<choice 0:company|1:case|2:hand|3:mean|>
+company
+◆Next Stage〈1438〉【訳】(a) 私の姉［妹］はニューヨークの出版社で働いている。／(b) 私が戻ってくるまで私の犬と一緒にいてくれますか。
+(a) It would be better for us to accept his offer in this (　　).<br>(b) The police are investigating the (　　) as a murder.<choice 0:case|1:table|2:grave|3:call|>
+case
+◆Next Stage〈1463〉【訳】(a) この場合，彼の申し出を受け入れる方がよいだろう。／(b) 警察はその事件を殺人事件として捜査している。
+(a) You must be (　　) to animals and never hurt them.<br>(b) I'm sorry, we don't have that (　　) of shampoo in this store.<choice 0:kind|1:mine|2:bill|3:end|>
+kind
+◆Next Stage〈1443〉【訳】(a) 動物には優しく接しなければならず，決して傷つけてはいけません。／(b) 申し訳ありませんが，当店にはその種のシャンプーは置いてございません。
+(a) He did not choose the means to gain his (　　).<br>(b) Go to the (　　) of this street and turn right there.<br>(c) What shall we have to (　　) the meal with?　〈西南学院大〉<choice 0:end|1:hand|2:do|3:mind|>
+end
+◇Next Stage〈1457〉（全解説 英語標準問題1100〈1097〉）
+(a) If you hit the glass with a hammer, it will (　　) easily.<br>(b) Let's take a ten-minute (　　) before we start working again.<choice 0:break|1:grave|2:leave|3:end|>
+break
+◆Next Stage〈1439〉　(a) breakは動詞で「割れる／こわれる」の意味。(b) breakは名詞で「休憩」の意味。【訳】(a) ハンマーでたたけば，ガラスは簡単に割れるでしょう。／(b) 仕事を再開する前に，10分間の休憩をとりましょう。
+(a) Please give me a (　　) at my office tomorrow.<br>(b) Sushi is a food which the Japanese can (　　) their own.<choice 0:call|1:well|2:case|3:can|>
+call
+◆Next Stage〈1444〉　(a) callは名詞で「電話」の意味。give A a callで「Aに電話をする」の意味を表す。give A a ringと同意。（→p.256【整理85】）(b) callは動詞で，call O Cは「OをCと言う／呼ぶ」の意味。【訳】(a) 明日，私のオフィスに電話してください。／(b) 寿司は，日本人が日本独自のものと言える食べ物だ。
+(a) Roger opened a (　　) of tuna.<br>(b) (　　) you play the violin?<choice 0:can|1:mean|2:end|3:case|>
+can
+◆Next Stage〈1436〉　(a) canは名詞で「缶」の意味。(b) canは助動詞で「…できる」の意味。【訳】(a) ロジャーはツナ缶を開けた。／(b) あなたはバイオリンが弾けますか。
