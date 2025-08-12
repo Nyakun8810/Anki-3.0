@@ -1,0 +1,993 @@
+Next Stage 11~12
+接続詞,前置詞
+W2xYqw
+問題
+解答
+解説
+Let's try to do our best, (　　) we can expect no help from anyone else.<choice 0:since|1:what|2:unless|3:that|>
+since
+◆Next Stage〈357〉【訳】私たちは他の誰からも援助を期待できないのだから，最善を尽くすように努力しよう。(2)
+I haven't seen Rich (　　) he returned from New Zealand.<choice 0:since|1:until|2:when|3:as|>
+since
+◆Next Stage〈343〉　since...「…して以来」─文意から判断【!!注意】本問のhaven't seenのように，主節には完了時制が用いられることが多い。【訳】リッチがニュージーランドから戻って以来，私は彼に会っていない。(3)
+I'll lend you the money (　　) condition that you return it within six months.<choice 0:in|1:on|2:for|3:with|>
+on
+◆Next Stage〈362〉　on condition that...「…という条件で／…ならば」△on condition thatも，ifで置きかえられる場合が多い。【訳】6か月以内に返すという条件で，君にお金を貸しましょう。(4)
+I could not believe the fact (　　) California used to belong to Mexico.<choice 0:which|1:how|2:that|3:why|>
+that
+◆Next Stage〈338〉　同格の名詞節を導く接続詞that─A that節「…というA」△接続詞thatが導く名詞節は，名詞の後に置かれて，その具体的内容を表す場合がある。この場合，同格の名詞節という。A that節で「…というA」と訳すのが原則。▲④whichは不可。関係代名詞は節内で名詞の役割を果たすが，本問の空所の後には完結した文が来ており，関係代名詞が果たす役割がない。【訳】私はかつてカリフォルニアがメキシコ領だったという事実を信じることができなかった。(5)
+(　　) the rain has stopped, the field will dry out soon.<choice 0:Even if|1:While|2:Now that|3:Though|>
+Now that
+◇Next Stage〈375〉（全解説 英文法ファイナル問題集 標準編〈266〉）(6)
+It's been ages (　　).<choice 0:since I last played tennis|1:that I don't play tennis|2:after I didn't play tennis|3:that I haven't played tennis|>
+since I last played tennis
+◆Next Stage〈344〉【訳】この前テニスをしてから，ずいぶんと久しい。(7)
+We have reached the certainty (　　) the meeting will be successful.<choice 0:if|1:what|2:that|3:which|>
+that
+◇Next Stage〈338〉（全解説 頻出英文法・語法問題1000〈856〉）(8)
+I left the house (　　) I heard the news.<choice 0:as soon as|1:until|2:while|3:during|>
+as soon as
+◆Next Stage〈352〉【訳】私はその知らせを聞くとすぐに，その家を離れた。(9)
+I doubt (　　) we'll finish in time for Christmas.<choice 0:why|1:if|2:how|3:when|>
+if
+◆Next Stage〈339〉【訳】私たちがクリスマスに間に合うように終わらせられるかどうか，私には疑わしい。(10)
+Let's get going now in case the bus (　　) early.<choice 0:will leave|1:won't leave|2:leaves|3:doesn't leave|>
+leaves
+◇Next Stage〈374〉（全解説 頻出英文法・語法問題1000〈891〉）(11)
+(　　) he has lived in Japan for some time, he cannot speak Japanese very well.<choice 0:Nevertheless|1:However|2:Even|3:Although|>
+Although
+◆Next Stage〈364〉　although...「…だけれども」△譲歩を表す接続詞although「…だけれども」を入れる。thoughと同意。【訳】彼は，かなりの間日本に住んでいるけれども，日本語をあまりうまく話せない。(12)
+As (　　) as I know, all wild animals keep themselves clean.<choice 0:possible|1:well|2:long|3:far|>
+far
+◆Next Stage〈377〉　as［so］ far asとas［so］ long asの違い△本問は範囲・制限を表すのでas far asの形にする。whileやif (only) には置きかえられない。【訳】私の知る限り，すべての野生動物はいつも体をきれいにしています。(14)
+Don't just sit around waiting for someone to help you. Nobody is going to help you (　　) you ask.<choice 0:what|1:without|2:unless|3:else|>
+unless
+◇Next Stage〈360〉（全解説 頻出英文法・語法問題1000〈859〉）(15)
+Do (　　) you are told to do.<choice 0:which|1:that|2:why|3:as|>
+as
+◇Next Stage〈383〉（全解説 英語標準問題1100〈877〉）(16)
+(　　) I don't like carrots, I eat them because my doctor has ordered me to.<choice 0:Despite|1:Even though|2:Even so|3:In spite of|>
+Even though
+◇Next Stage〈365〉（全解説 頻出英文法・語法問題1000〈864〉）(17)
+It won't be long (　　) I catch up with him.<choice 0:while|1:since|2:after|3:before|>
+before
+◆Next Stage〈346〉It won't be long before...「まもなく…するだろう」　【訳】私はまもなく彼に追いつくでしょう。(18)
+Hanako hardly ever goes out any more, even with friends, (　　) she's married and has two kids.<choice 0:unless|1:as soon as|2:now that|3:in case|>
+now that
+◇Next Stage〈375〉（全解説 頻出英文法・語法問題1000〈875〉）(19)
+Now that she has a baby, she (　　) smokes nor drinks.<choice 0:either|1:barely|2:mostly|3:neither|>
+neither
+◇Next Stage〈336〉（全解説 英語標準問題1100〈823〉）(20)
+(　　) you learn the basic rules of the game, I'm sure you'll enjoy it a lot.<choice 0:Once|1:Although|2:While|3:Therefore|>
+Once
+◆Next Stage〈376〉　once...「ひとたび…すると／いったん…するからには」【!!注意】now thatとの類推からか，once thatも可能と考えている人が多いが，onceにはthatを従える形はない点に注意。【訳】いったんゲームの基本的なルールを身につけてしまえば，あなたはきっとそのゲームを大いに楽しめるでしょう。(21)
+Dark (　　) it was, we managed to find our way home.<choice 0:as|1:after|2:although|3:before|>
+as
+◇Next Stage〈366〉（全解説 頻出英文法・語法問題1000〈862〉）(22)
+Energy needs are not going to decrease, (　　) are energy sources going to increase.<choice 0:though|1:or|2:nor|3:but|>
+nor
+◇Next Stage〈328〉（全解説 頻出英文法・語法問題1000〈847〉）(23)
+She behaves (　　) she were a queen.<choice 0:because|1:although|2:so that|3:as if|>
+as if
+◆Next Stage〈363〉　as if...「まるで…するかのように」△空所の後には仮定法過去の英文が来ている（→91）。△as thoughも同意表現である。【訳】彼女はまるで女王であるかのように振る舞う。(24)
+You must go there with your parents, (　　) you like it or not.<choice 0:whether|1:though|2:as|3:when|>
+whether
+◆Next Stage〈367〉　whether...or～「…であろうが～であろうが」△whetherは，通例whether...or～の形で用いて「…であろうが～であろうが」の意味を表す副詞節を導く用法がある。本問のようにwhether... or notの形で用いることも多い。△名詞節を導くwhetherは問題339，340参照。【訳】皆さんは好むと好まざるとにかかわらず，ご両親とそこに行かなければなりません。(25)
+(　　) you sow at the right time, you cannot expect a rich harvest.<choice 0:Unless|1:Whenever|2:If|3:Wherever|>
+Unless
+◆Next Stage〈360〉【訳】適切な時期に種をまかなければ，豊かな収穫は見込めない。(26)
+So (　　) as I am concerned, you may leave whenever you like.<choice 0:long|1:much|2:far|3:many|>
+far
+◇Next Stage〈377〉（全解説 頻出英文法・語法問題1000〈886〉）(27)
+Hurry up, (　　) we will miss the 10:30 bus.<choice 0:so|1:but|2:or|3:and|>
+or
+◇Next Stage〈330〉（全解説 英語標準問題1100〈824〉）(28)
+(　　) was the professor's pride that she could not ignore the insult.<choice 0:So|1:Little|2:Such|3:Small|>
+Such
+◆Next Stage〈370〉　S is such that...→Such is S that...△S is such that...の形で「Sは大変なものなので…／Sは…するほどのものだ」の意味を表す。S is so great that...とほぼ同意。△S is such that...はSuch is S that...の倒置形になることも多く，本問はその形。【訳】教授の自尊心は非常に強かったので，彼女はその侮辱を無視することができなかった。(30)
+Do in Rome (　　) the Romans do.<choice 0:where|1:according to|2:while|3:as|>
+as
+◆Next Stage〈383〉【訳】郷に入りては郷に従え。〈ことわざ〉（←ローマでは，ローマ人がするようにしなさい）(31)
+(　　) you are fifty, the world will have greatly changed.<choice 0:While|1:Since|2:Until|3:By the time|>
+By the time
+◆Next Stage〈349〉　by the time...「…するまでには」△「５０歳になるまでには」の意味だから③By the timeが入る（→348）。【訳】あなたが50歳になるまでには，世界は大きく変わっているでしょう。(32)
+I'll be surprised (　　) an accident. He drives too fast.<choice 0:unless Tom doesn't have|1:if Tom doesn't have|2:if Tom has|3:unless Tom has|>
+if Tom doesn't have
+◇Next Stage〈360〉（全解説 頻出英文法・語法問題1000〈860〉）(33)
+(　　) I met John, he was still a college student.<choice 0:For the first time|1:In the first|2:At first|3:The first time|>
+The first time
+◆Next Stage〈347〉【訳】私がジョンに初めて会ったとき，彼はまだ大学生でした。(34)
+His assertion (　　) the molecule divides into two parts in water is accepted by most scientists.<choice 0:that|1:what|2:which|3:how|>
+that
+◇Next Stage〈338〉（全解説 英文法ファイナル問題集 標準編〈418〉）(35)
+She left home early in the morning for (　　) that she might miss the first train.<choice 0:danger|1:fear|2:risk|3:anxiety|>
+fear
+◇Next Stage〈373〉（全解説 頻出英文法・語法問題1000〈1025〉）(36)
+(　　) there is a difficulty in the plan is quite understandable to me.<choice 0:That|1:Whatever|2:Therefore|3:What|>
+That
+◇Next Stage〈337〉（全解説 頻出英文法・語法問題1000〈848〉）(37)
+He must have had some accident on the way,　(　　) he would have been here by now.<choice 0:and|1:if|2:before|3:or|>
+or
+◇Next Stage〈Point 088〉（全解説 英語標準問題1100〈825〉）(38)
+(　　) you should stop smoking is the biggest decision you have to make.<choice 0:Whether|1:While|2:Unless|3:If|>
+Whether
+◆Next Stage〈340〉【訳】タバコをやめるべきかどうかは，あなたが下さなければならない最大の決断です。(39)
+The children were (　　) excited by the prospect of going to the zoo that we could not keep them quiet.<choice 0:much|1:so|2:very|3:such|>
+so
+◇Next Stage〈368〉（全解説 英語標準問題1100〈854〉）(40)
+Smoking is (　　) expensive and bad for your health.<choice 0:other|1:both|2:neither|3:either|>
+both
+◆Next Stage〈332〉both A and B「AもBも」　【訳】喫煙は高くつくし健康に有害だ。(41)
+You should write down Satsuki's number (　　) you forget it.<choice 0:in the case|1:in case|2:so far as|3:so long as|>
+in case
+◇Next Stage〈374〉（センター試験過去問題）(42)
+I hardly recognized you, (　　) you've changed so much.<choice 0:that|1:even if|2:because|3:although|>
+because
+◆Next Stage〈358〉　理由を表す接続詞because【訳】ほとんどあなただとはわからなかった。というのも，ずいぶんと変わってしまっていたから。(43)
+Do you have to eat the whole of a bad egg to know (　　) it is bad?<choice 0:what|1:that|2:when|3:which|>
+that
+◆Next Stage〈337〉　名詞節を導く接続詞that「…する（という）こと」△接続詞thatには，名詞節を作り，文中で主語・目的語・補語となる用法がある。ただし，原則として前置詞の目的語にはならない。本問ではknowの目的語となる名詞節を作っている。▲空所の後には完結した文が来ているので，③whatは不可（→左頁の【考え方】）。【訳】腐っていることを知るために，腐った卵を全部食べる必要があるのかい？(44)
+You had better write it down (　　) you forget it.<choice 0:whether|1:after|2:before|3:while|>
+before
+◆Next Stage〈345〉【訳】忘れないうちに，それを書きとめておいた方がいいよ。(45)
+Dark (　　) it was, we found our way back.<choice 0:while|1:if|2:as|3:that|>
+as
+◆Next Stage〈366〉【訳】暗かったけれども，私たちはなんとか帰ることができた。(46)
+Kinesics, the study of body language, is so new as a science (　　) its authorities can be counted on the fingers of one hand.<choice 0:as|1:since|2:that|3:unless|>
+that
+◇Next Stage〈368〉（全解説 頻出英文法・語法問題1000〈893〉）(47)
+Don't look down upon them just (　　) they are poor.<choice 0:because|1:though|2:for|3:since|>
+because
+◇Next Stage〈359〉（全解説 英語標準問題1100〈850〉）(48)
+I had no sooner uttered the words (　　) I regretted them.<choice 0:that|1:if|2:than|3:as|>
+than
+◆Next Stage〈355〉　...no sooner...than～「…するとすぐに～」△用法や注意すべき点は，左頁の【整理33】を参照。【訳】その言葉を口にすると，私はすぐに後悔した。(49)
+Pollution has reached (　　) proportions that we are barely able to cope with it.<choice 0:great|1:so|2:such|3:many|>
+such
+◇Next Stage〈369〉（全解説 頻出英文法・語法問題1000〈894〉）(50)
+(　　) had she opened the door when a white dog rushed out of the house.<choice 0:The moment|1:No sooner|2:Directly|3:Hardly|>
+Hardly
+◇Next Stage〈356〉（全解説 頻出英文法・語法問題1000〈1070〉）(51)
+Don't touch my writing-table; leave it (　　) it is.<choice 0:as|1:that|2:when|3:if|>
+as
+◆Next Stage〈384〉　as＋S＋be動詞「そのままに／あるがままに」△様態のasの用法の一つ。通例，文尾や目的語の後で用いられ，as＋S＋be動詞「そのままに／あるがままに」の意味になる。△本問は，単数形の名詞my writing-tableを受けるのでas it isとなっている。【訳】私の書き物テーブルには触らないで。そのままにしておいてくれ。(52)
+Men differ from animals (　　) they can think and speak.<choice 0:why|1:in case|2:in that|3:how|>
+in that
+◇Next Stage〈341〉（全解説 英文法ファイナル問題集 標準編〈417〉）(53)
+(　　) he entered the room when they stopped laughing.<choice 0:Had hardly|1:Hardly had|2:Having had|3:On having|>
+Hardly had
+◆Next Stage〈356〉　Hardly［Scarcely］ had S done...when～「…するとすぐに～」△...hardly［scarcely］...when［before］～のhardlyが文頭に来た形を作る。なおHardlyが文頭に来る場合は，後は過去完了の倒置形になることに注意（→左頁の【整理33】）。【訳】彼が部屋に入ったとたん，彼らは笑いをやめた。(54)
+He will come (　　) that he is well enough.<choice 0:presented|1:supplied|2:except|3:provided|>
+provided
+◇Next Stage〈361〉（全解説 頻出英文法・語法問題1000〈1049〉）(55)
+The hairdresser now cuts (　　) men's and women's hair.<choice 0:each|1:both|2:either|3:any|>
+both
+◇Next Stage〈332〉（全解説 頻出英文法・語法問題1000〈731〉）(56)
+It is often said that an American starts a speech with a joke, (　　) a Japanese has an apology to make.<choice 0:which|1:what|2:while|3:that|>
+while
+◇Next Stage〈380〉（全解説 頻出英文法・語法問題1000〈865〉）(57)
+She should have done (　　) she was told. Then she wouldn't have made mistakes.<choice 0:so|1:as|2:that|3:which|>
+as
+◇Next Stage〈383〉（全解説 頻出英文法・語法問題1000〈883〉）(58)
+John asked Mary (　　) she would like to go shopping in the afternoon.<choice 0:that|1:what|2:whom|3:whether|>
+whether
+◇Next Stage〈340〉（全解説 頻出英文法・語法問題1000〈849〉）(59)
+(　　) your trust in your ability, and you will never fail completely.<choice 0:Place|1:Placing|2:Placed|3:If you place|>
+Place
+◇Next Stage〈331〉（全解説 頻出英文法・語法問題1000〈842〉）(60)
+There won't be any train service (　　) this terrible snowstorm is over.<choice 0:since|1:until|2:by the time|3:while|>
+until
+◆Next Stage〈348〉　until［till］とby the timeの違い△接続詞until［till］は，「…するまでずっと」の意味で主節動詞の継続した状態・動作の終了の時点を表す。△接続詞by the timeは「…するまでには」の意味で主節動詞の行為の完了の期限を表す。△日本語の訳の違いだけでも十分に判断できるが，本問は「吹雪が収まるまで列車の運行はない」のだから④untilが入る。【訳】この激しい吹雪が収まるまで列車の運行はないでしょう。(61)
+She said no every time, (　　) at the last moment she suddenly agreed to take us.<choice 0:by|1:during|2:where|3:until|>
+until
+◆Next Stage〈350〉　, until［till］...「そしてついに…」△until［till］は，通例カンマの後に置いて，「そしてついに…」の意味で用いられることがある。△本問のように，直後にat the last moment「いよいよというときに」やat last「ついに」を伴うことが多い。【訳】彼女はいつも嫌だと言っていたが，最後の最後に，突然私たちを連れていくことに同意した。(62)
+The train is out of service (　　) the rail construction is going on.<choice 0:with|1:during|2:while|3:after|>
+while
+◆Next Stage〈379〉【訳】レールの工事が続いている間，列車は運行を休止している。(63)
+Take an umbrella with you in case (　　) .<choice 0:it will be raining|1:it will rain|2:it rains|3:it shall rain|>
+it rains
+◇Next Stage〈374〉（センター試験過去問題）(65)
+That depends on (　　) you are interested or not.<choice 0:whether|1:which|2:what|3:that|>
+whether
+◇Next Stage〈340〉（全解説 英語標準問題1100〈831〉）(66)
+(　　) winters in Britain are cold and there is usually snow, there are very few ski resorts.<choice 0:Although|1:When|2:As|3:Since|>
+Although
+◇Next Stage〈364〉（全解説 頻出英文法・語法問題1000〈863〉）(68)
+He didn't tell the truth (　　) she should get angry.<choice 0:now that|1:soon after|2:for fear|3:even though|>
+for fear
+◇Next Stage〈373〉（全解説 英語標準問題1100〈874〉）(69)
+I don't mind lending you the money (　　) you pay it back within a year.<choice 0:whether|1:which|2:supposed|3:provided|>
+provided
+◇Next Stage〈361〉（全解説 頻出英文法・語法問題1000〈897〉）(70)
+When she saw all her children safe at home, her delight was (　　) that she could not speak a word.<choice 0:so|1:very much|2:great|3:such|>
+such
+◇Next Stage〈370〉（全解説 頻出英文法・語法問題1000〈896〉）(71)
+I will forgive him (　　) he acknowledges his mistakes.<choice 0:provided|1:nevertheless|2:however|3:otherwise|>
+provided
+◆Next Stage〈361〉　provided (that)...「もし…ならば」【訳】彼が間違いを認めれば，私は彼を許しましょう。(72)
+Replace the desks as they were, (　　) the teacher will get angry.<choice 0:before|1:if|2:and|3:or|>
+or
+◇Next Stage〈330〉（全解説 英文法ファイナル問題集 標準編〈114〉）(73)
+(　　) you had one million yen, what would you do with it?<choice 0:Giving|1:Making|2:Supposing|3:Getting|>
+Supposing
+◇Next Stage〈361〉（全解説 英語標準問題1100〈837〉）(74)
+This book is not only more instructive (　　) more interesting than that book.<choice 0:nor|1:or|2:but|3:that|>
+but
+◆Next Stage〈334〉【訳】この本は，あの本よりもためになるだけでなくおもしろい。(76)
+He worked hard for (　　) he should fail again.<choice 0:fear|1:afraid|2:risk|3:danger|>
+fear
+◆Next Stage〈373〉for fear (that)...「…しないように／…する場合に備えて」　【訳】また失敗するといけないから，彼は一生懸命勉強した。(77)
+(　　) he graduated from high school, he has not done anything.<choice 0:Until|1:Since|2:Before|3:When|>
+Since
+◇Next Stage〈343〉（全解説 頻出英文法・語法問題1000〈869〉）(78)
+I regard myself as fortunate in (　　) I have so many friends.<choice 0:how|1:which|2:what|3:that|>
+that
+◇Next Stage〈341〉（全解説 頻出英文法・語法問題1000〈854〉）(79)
+Late (　　) it was, we decided to visit our friends.<choice 0:even|1:on|2:as|3:but|>
+as
+◇Next Stage〈366〉（全解説 英語標準問題1100〈843〉）(80)
+Some people say that the Internet is a passing fashion, (　　) others believe it is a turning point in human history.<choice 0:while|1:judging from|2:during|3:considering|>
+while
+◆Next Stage〈380〉　対比のwhile...「～，一方…」【訳】インターネットは一時的な流行であると言う人たちがいる一方で，それが人類の歴史における転換点であると信じている人たちもいる。(81)
+As (　　) as I know, Jim has never made such a mistake.<choice 0:much|1:far|2:soon|3:long|>
+far
+◇Next Stage〈377〉（全解説 英文法ファイナル問題集 難関大学編〈118〉）(83)
+As (　　) as I know, he is one of the best doctors in town.<choice 0:far|1:well|2:much|3:long|>
+far
+◇Next Stage〈377〉（全解説 英語標準問題1100〈858〉）(84)
+(　　) I know the money is safe, I will not worry about it.<choice 0:As long as|1:Even though|2:Unless|3:However|>
+As long as
+◇Next Stage〈378〉（全解説 英文法ファイナル問題集 標準編〈118〉）(85)
+Next (　　) I visit San Francisco, I'd like to stay at that hotel.<choice 0:case|1:chance|2:time|3:hour|>
+time
+◇Next Stage〈347〉（全解説 英語標準問題1100〈867〉）(87)
+Let me know at once (　　) you have finished it.<choice 0:when|1:for|2:so that|3:until|>
+when
+◆Next Stage〈342〉　when...「…するとき」─文意から判断【訳】それを終えたときには，すぐに私に知らせてください。(88)
+Humans differ from other animals (　　) they can use language.<choice 0:with which|1:in that|2:at which|3:for that|>
+in that
+◇Next Stage〈341〉（全解説 英語標準問題1100〈833〉）(89)
+I was not familiar with the town, (　　) I managed to get to the hotel.<choice 0:then|1:yet|2:already|3:so|>
+yet
+◆Next Stage〈329〉　逆接のyet「しかしながら／それでも」△文意から判断して，接続詞用法のyetを入れる。【訳】なじみのある町ではなかったが，どうにかホテルに着いた。(90)
+I wonder if we are able to see those who are very close to us (　　).<choice 0:as if they really are|1:as it is|2:as it were|3:as they really are|>
+as they really are
+◇Next Stage〈384〉（全解説 頻出英文法・語法問題1000〈885〉）(91)
+I can only do the job for you on condition (　　) you pay me in advance.<choice 0:if|1:that|2:where|3:when|>
+that
+◇Next Stage〈362〉（全解説 英語標準問題1100〈839〉）(92)
+A man is not great (　　) he knows many things.<choice 0:since|1:for|2:as|3:because|>
+because
+◆Next Stage〈359〉【訳】人は，たくさんのことを知っているからといって偉いわけではない。(93)
+I don't think it'll rain, but I'll take an umbrella (　　) it does.<choice 0:as if|1:now that|2:in case|3:even though|>
+in case
+◆Next Stage〈374〉　in case S＋V...「…する場合に備えて」▲文尾のdoesはrainsのくり返しを避けたもので，代動詞と呼ばれる。【!!注意】in case S＋V...は，「…する場合に備えて」という意味を表す点では，for fear (that)...（→373）と同じだが，「…しないように」の意味にはならない。【!!注意】in caseの節内にshouldを用いることもあるが，will/would/mightは用いない。【＋プラス】in case S＋V...で「もし…なら」というifと同じ意味を表す用法（アメリカ用法）があることも押さえておこう。What shall we do in case it rains?　（もし雨が降ったら，どうしましょうか）【訳】雨は降らないと思うけれど，降るといけないから傘を持っていきます。(94)
+(　　) the eye could reach, the fields were covered with snow.<choice 0:As far as|1:So much as|2:So long as|3:As long as|>
+As far as
+◇Next Stage〈377〉（全解説 英文法ファイナル問題集 標準編〈117〉）(95)
+(　　) he saw me, he grew pale and ran away.<choice 0:The moment|1:As early as|2:Suddenly|3:At once|>
+The moment
+◇Next Stage〈353〉（全解説 英語標準問題1100〈868〉）(96)
+Bob must have broken it (　　) there was no one but him in the room.<choice 0:therefore|1:though|2:since|3:so|>
+since
+◇Next Stage〈357〉（全解説 英語標準問題1100〈849〉）(97)
+He is a good writer (　　) he has an elegant style.<choice 0:in that|1:that|2:in which|3:if that|>
+in that
+◆Next Stage〈341〉【訳】優雅な文体を持っているという点で，彼は優れた作家だ。(99)
+I can't speak French, (　　) can I read it.<choice 0:also|1:but|2:nor|3:although|>
+nor
+◆Next Stage〈328〉【訳】私はフランス語を話せませんし，読むこともできません。(100)
+The reason for his absence was (　　) he thought he would not be needed.<choice 0:what|1:that|2:why|3:how|>
+that
+◇Next Stage〈337〉（全解説 英語標準問題1100〈829〉）(101)
+(　　) I sympathize with you in your situation, I can't help you.<choice 0:Whichever|1:While|2:Since|3:Whether|>
+While
+◆Next Stage〈381〉　譲歩のwhile...「…だけれども」△譲歩を表すwhile節は，本問のように主節の前に置かれることが多い。【＋プラス】while同様，対比・譲歩を表す接続詞としてwhereasも押さえておこう。本問および前問は，選択肢にwhereasがあればそれも正解になる。【訳】あなたの境遇は気の毒に思いますけれども，私はあなたを助けることはできません。(102)
+A: Does Jack live in the suburbs or in the center of the city?　B: (　　) I know, he lives near the center.<choice 0:As much as|1:As long as|2:As far as|3:So long as|>
+As far as
+◇Next Stage〈377〉（全解説 頻出英文法・語法問題1000〈888〉）(104)
+Mr. Smith grew colder and colder (　　) finally he got up and left the room.<choice 0:until|1:whenever|2:as|3:than|>
+until
+◇Next Stage〈350〉（全解説 頻出英文法・語法問題1000〈874〉）(106)
+(　　) that I've made up my mind, I have no intention of giving up on the way.<choice 0:So|1:Now|2:If|3:Such|>
+Now
+◆Next Stage〈375〉now (that)...「今やもう…だから」　【訳】一度決心したからには，途中でやめるつもりはない。(108)
+(　　) it rains tomorrow, the music festival will take place as planned.<choice 0:During|1:Because|2:Even if|3:Although|>
+Even if
+◆Next Stage〈365〉　even if...「たとえ…でも」【＋プラス】ほぼ同意の表現としてeven thoughも押さえておこう。even ifが「事実はどうであれ」といったニュアンスが強いのに対し，even thoughは過去や現在の「事実」に関して使う傾向がある。なお，ifだけでも「たとえ…でも」という譲歩の意味を表すことがある。【訳】明日たとえ雨が降っても，音楽祭は予定通り行われます。(109)
+He had (　　) arrived than he was asked to leave.<choice 0:scarcely|1:seldom|2:hardly|3:no sooner|>
+no sooner
+◇Next Stage〈355〉（全解説 英語標準問題1100〈869〉）(110)
+I know nothing about her (　　) she is a high school student.<choice 0:except for|1:excepting|2:excepted|3:except that|>
+except that
+◇Next Stage〈341〉（全解説 英語標準問題1100〈834〉）(111)
+(　　) my father nor my brother smokes.<choice 0:Either|1:Both|2:Neither|3:Not only|>
+Neither
+◆Next Stage〈336〉　neither A nor B「AもBも…ない」▲問題332～336の表現が主語の場合の動詞の形は，p.157【整理39】を参照。【訳】父も兄もタバコを吸いません。(114)
+(　　) we went up the mountain, the air became thinner.<choice 0:During|1:As|2:When|3:Since|>
+As
+◆Next Stage〈382〉　比例のas...「…するにつれて」【訳】山に登っていくにつれて，空気はますます薄くなってきた。(115)
+He looks like the kind of fellow who wouldn't even talk to you (　　) he wanted something from you.<choice 0:unless|1:that|2:for|3:since|>
+unless
+◇Next Stage〈360〉（全解説 英文法ファイナル問題集 難関大学編〈121〉）(116)
+The soup was (　　) hot that I almost burned my tongue.<choice 0:much|1:so|2:such|3:very|>
+so
+◆Next Stage〈368〉【訳】スープはとても熱くて舌をやけどするところだった。(118)
+I know nothing about Mr. Brown (　　) that he lives next door.<choice 0:except|1:else|2:excluding|3:without|>
+except
+◇Next Stage〈341〉（全解説 頻出英文法・語法問題1000〈855〉）(120)
+The boy is sick, (　　) he doesn't appear so.<choice 0:though|1:when|2:in spite|3:since|>
+though
+◇Next Stage〈364〉（全解説 頻出英文法・語法問題1000〈1148〉）(121)
+Scarcely (　　) lunch when the doorbell rang.<choice 0:had we started|1:we had started|2:we did have started|3:did we have started|>
+had we started
+◇Next Stage〈356〉（全解説 英語標準問題1100〈871〉）(123)
+(　　) he is a man of character cannot be denied.<choice 0:Whether|1:What|2:How|3:That|>
+That
+◇Next Stage〈337〉（全解説 頻出英文法・語法問題1000〈1108〉）(124)
+Many embarrassing situations occur (　　) people live in a different culture.<choice 0:which|1:when|2:what|3:that|>
+when
+◇Next Stage〈342〉（全解説 英文法ファイナル問題集 標準編〈115〉）(125)
+Any sport will do as (　　) as it is interesting.<choice 0:good|1:much|2:well|3:long|>
+long
+◇Next Stage〈378〉（全解説 英語標準問題1100〈860〉）(126)
+Aunt Mary doesn't laugh very often, but she was laughing at breakfast (　　) tears came to her eyes.<choice 0:though|1:until|2:while|3:by the time|>
+until
+◇Next Stage〈348〉（全解説 英語標準問題1100〈865〉）(127)
+He is not a scholar (　　) a writer.<choice 0:than|1:also|2:and|3:but|>
+but
+◆Next Stage〈333〉　not A but B「AではなくB」【訳】彼は学者ではなく，作家です。(129)
+I'm not going to sleep tonight (　　) I finish my homework.<choice 0:during|1:since|2:by|3:until|>
+until
+◇Next Stage〈348〉（センター試験過去問題）(133)
+You must remember the fact (　　) you owe her a lot.<choice 0:that|1:what|2:how|3:whether|>
+that
+◇Next Stage〈338〉（全解説 頻出英文法・語法問題1000〈1061〉）(134)
+(　　) you condemn him, put yourself in his place.<choice 0:Because|1:While|2:Before|3:Unless|>
+Before
+◇Next Stage〈345〉（全解説 頻出英文法・語法問題1000〈868〉）(135)
+It was a long while (　　).<choice 0:until she did not understand me|1:unless she understood|2:before she understood me|3:after she understood me|>
+before she understood me
+◇Next Stage〈346〉（全解説 頻出英文法・語法問題1000〈878〉）(136)
+You cannot appreciate the importance of health (　　) you are ill.<choice 0:if|1:when|2:until|3:by the time|>
+until
+◆Next Stage〈351〉not...until～「～して初めて…する」　【訳】人は病気になって，初めて健康のありがたさがわかるものです。(138)
+To get to the sports arena, you can take (　　) the bus or the train.<choice 0:either|1:neither|2:nor|3:both|>
+either
+◆Next Stage〈335〉　either A or B「AかBかどちらか」【訳】スポーツアリーナに行くにはバスか電車のどちらでも利用できますよ。(141)
+(　　) spring comes, many professors move their classes outdoors.<choice 0:Since|1:When|2:However|3:Although|>
+When
+◇Next Stage〈342〉（全解説 頻出英文法・語法問題1000〈866〉）(142)
+Let him start the work at once, (　　) he won't be able to finish it by five.<choice 0:so|1:but|2:or|3:and|>
+or
+◆Next Stage〈330〉命令文..., or～「…しなさい，さもないと～／…しなければ～」　【訳】彼に仕事をすぐに始めさせましょう。さもないと，5時までに終えることはできないでしょう。(143)
+No sooner had we got upon the deck (　　) a native gave a loud shout.<choice 0:than|1:when|2:that|3:where|>
+than
+◇Next Stage〈355〉（全解説 頻出英文法・語法問題1000〈882〉）(145)
+It matters very little who discovers a cure for cancer, (　　) it is discovered.<choice 0:so long as|1:so much as|2:because|3:though|>
+so long as
+◇Next Stage〈378〉（全解説 英文法ファイナル問題集 難関大学編〈119〉）(148)
+A: You seem to have had that car for years.　B: Yes, I should sell it (　　) it still runs.<choice 0:before|1:during|2:until|3:while|>
+while
+◇Next Stage〈379〉（全解説 英語標準問題1100〈862〉）(149)
+I spent all Friday working on my homework (　　) I would be free to go hiking the next day.<choice 0:until|1:so that|2:unless|3:whenever|>
+so that
+◇Next Stage〈371〉（全解説 英文法ファイナル問題集 標準編〈267〉）(150)
+Jim's Japanese was not very good, (　　) his speech still impressed the audience.<choice 0:because|1:so|2:therefore|3:but|>
+but
+◆Next Stage〈327〉【訳】ジムの日本語はあまり上手ではなかったが，それでも彼のスピーチは聴衆に感銘を与えた。(151)
+The thought flashed through her mind (　　) she was going to die.<choice 0:what|1:which|2:that|3:whose|>
+that
+◇Next Stage〈338〉（全解説 英語標準問題1100〈830〉）(152)
+You have to hurry (　　) you want to go with them.<choice 0:then|1:if|2:either|3:so|>
+if
+◇Next Stage〈361〉（全解説 英語標準問題1100〈835〉）(156)
+Imagine a particle so small that you can barely see it (　　) a microscope has enlarged it for you 300 times.<choice 0:even though|1:as far as|2:so that|3:because|>
+even though
+◇Next Stage〈365〉（全解説 英語標準問題1100〈842〉）(157)
+It will be four years (　　) the definite result of liberalization of imported beef emerges.<choice 0:since|1:after|2:before|3:when|>
+before
+◇Next Stage〈346〉（全解説 頻出英文法・語法問題1000〈1065〉）(158)
+It began to rain heavily (　　) we got to the gate.<choice 0:just as|1:right now|2:just now|3:just because|>
+just as
+◇Next Stage〈Point 102〉（全解説 英語標準問題1100〈861〉）(163)
+It was (　　) a terrible day that we decided not to go.<choice 0:so|1:very|2:specially|3:such|>
+such
+◆Next Stage〈369〉　such...that～構文「とても…なので～／～するほど…」△such...that～構文も文意はso...that～構文と同じ。ただし，「such＋（a）＋（形容詞）＋名詞」の形をとる。▲②soは，a terrible dayの語順につながらない。terrible a dayであれば，soが入りsuchが不可になる（→368）。【訳】最悪の日だったので，私たちは行かないことに決めた。(165)
+(　　) that you have passed your test, you can drive on your own.<choice 0:Time|1:Then|2:If|3:Now|>
+Now
+◇Next Stage〈375〉（全解説 英語標準問題1100〈852〉）(168)
+Mary looked at her (　　) a lot of girls did.<choice 0:the reason|1:the matter|2:the point|3:the way|>
+the way
+◆Next Stage〈385〉様態のthe way...「…するように」　【訳】メアリーは，多くの少女と同じように彼女を見た。(170)
+(　　) I graduate from this university, I want to speak English fluently.<choice 0:Until|1:As far as|2:Even if|3:By the time|>
+By the time
+◇Next Stage〈349〉（全解説 英語標準問題1100〈866〉）(171)
+All my other guests had gone home, but my friend stayed on (　　) he wanted to talk to me.<choice 0:before|1:hoping|2:as though|3:though|>
+as though
+◇Next Stage〈363〉（全解説 英語標準問題1100〈844〉）(172)
+Kate must be sick, (　　) she looks pale.<choice 0:for|1:and|2:that|3:nor|>
+for
+◇Next Stage〈Point 088〉（全解説 英語標準問題1100〈828〉）(173)
+This food tastes terrible! I couldn't eat it (　　) I were starving.<choice 0:only when|1:even if|2:because|3:after|>
+even if
+◇Next Stage〈365〉（全解説 頻出英文法・語法問題1000〈807〉）(174)
+(　　) I overslept, I missed the bus.<choice 0:Morning|1:Before|2:As|3:Until|>
+As
+◇Next Stage〈Point 102〉（全解説 英語標準問題1100〈848〉）(178)
+The trouble is (　　) I have no money with me.<choice 0:what|1:whether|2:that|3:unless|>
+that
+◇Next Stage〈337〉（全解説 英文法ファイナル問題集 標準編〈113〉）(179)
+We agreed to buy my daughter a dog (　　) she takes it for a walk every day.<choice 0:as long as|1:while|2:unless|3:otherwise|>
+as long as
+◆Next Stage〈378〉【訳】毎日散歩に連れていくことを条件に，私たちは娘に犬を買ってあげることを承諾した。(180)
+Some people fear that World War III may break out soon, but I (　　) .<choice 0:wonder that it does|1:am afraid it will|2:doubt if it will|3:think if it does|>
+doubt if it will
+◇Next Stage〈327〉（センター試験過去問題）(181)
+Mary didn't want to walk at night on her own (　　) something terrible would happen to her.<choice 0:so that|1:for fear that|2:despite the fact that|3:unless|>
+for fear that
+◇Next Stage〈373〉（全解説 頻出英文法・語法問題1000〈890〉）(182)
+It will not be long (　　) we meet again.<choice 0:since|1:when|2:after|3:before|>
+before
+◇Next Stage〈346〉（全解説 英語標準問題1100〈864〉）(185)
+We should not keep dogs (　　) we can take good care of them.<choice 0:when|1:which|2:unless|3:if|>
+unless
+◇Next Stage〈360〉（全解説 英文法ファイナル問題集 標準編〈265〉）(187)
+That game is easy, (　　) you learn the basic rules.<choice 0:once|1:even if|2:with all|3:unless|>
+once
+◇Next Stage〈376〉（全解説 頻出英文法・語法問題1000〈1074〉）(188)
+I taped the artist's speech (　　) my students could listen to it later.<choice 0:so|1:which|2:what|3:if|>
+so
+◇Next Stage〈372〉（全解説 英語標準問題1100〈873〉）(190)
+Physical and mental tests determine (　　) applicants will be admitted into one of the military services.<choice 0:unless|1:whether|2:how|3:that|>
+whether
+◇Next Stage〈340〉（全解説 頻出英文法・語法問題1000〈850〉）(191)
+The weather was fine, but we would have gone (　　) it hadn't been.<choice 0:since|1:although|2:even if|3:however|>
+even if
+◇Next Stage〈365〉（全解説 英語標準問題1100〈841〉）(195)
+We insure things (　　) they get stolen, catch fire, or get broken.<choice 0:unless|1:although|2:when|3:in case|>
+in case
+◇Next Stage〈374〉（全解説 英語標準問題1100〈875〉）(198)
+One minute earlier, (　　) they could have caught the bus.<choice 0:and|1:or|2:so|3:but|>
+and
+◇Next Stage〈331〉（全解説 英語標準問題1100〈826〉）(201)
+(　　) it rained, everyone had a good time.<choice 0:How much|1:However time|2:Although|3:Though much|>
+Although
+◇Next Stage〈364〉（全解説 英語標準問題1100〈840〉）(207)
+Every man's work, (　　) literature or music or architecture or anything else, is always a portrait of himself.<choice 0:whether it is|1:whichever it is|2:however|3:no matter what it is|>
+whether it is
+◇Next Stage〈367〉（全解説 頻出英文法・語法問題1000〈852〉）(209)
+The world will become smaller and smaller,　(　　) you like it or not.<choice 0:though|1:either|2:whether|3:whenever|>
+whether
+◇Next Stage〈367〉（全解説 英語標準問題1100〈832〉）(210)
+Take along some water with you (　　) you get thirsty.<choice 0:except for|1:that|2:so if|3:in case|>
+in case
+◇Next Stage〈374〉（全解説 英文法ファイナル問題集 標準編〈416〉）(212)
+You can't vote (　　) you have satisfied all the formal conditions.<choice 0:since|1:whenever|2:when|3:until|>
+until
+◇Next Stage〈348〉（全解説 頻出英文法・語法問題1000〈871〉）(216)
+Students are usually willing to study harder, (　　) the material is interesting.<choice 0:on the contrary|1:provided|2:otherwise|3:nevertheless|>
+provided
+◇Next Stage〈361〉（全解説 英語標準問題1100〈838〉）(217)
+He might fail in his new project (　　) he is industrious.<choice 0:when|1:that|2:unless|3:because|>
+unless
+◇Next Stage〈360〉（全解説 頻出英文法・語法問題1000〈1154〉）(218)
+Jim studied hard at school, (　　) at home he helped his mother with her work.<choice 0:which|1:if|2:where|3:while|>
+while
+◇Next Stage〈380〉（全解説 英語標準問題1100〈845〉）(223)
+George was good at arithmetic, (　　) he never got an A.<choice 0:then|1:yet|2:and|3:on the contrary|>
+yet
+◇Next Stage〈329〉（全解説 頻出英文法・語法問題1000〈843〉）(224)
+The weather was getting worse and worse (　　) the day went on.<choice 0:as|1:for|2:unless|3:that|>
+as
+◇Next Stage〈382〉（全解説 英語標準問題1100〈876〉）(225)
+The new movie theater was designed (　　) that the audience could sit comfortably.<choice 0:just|1:yet|2:so|3:still|>
+so
+◇Next Stage〈371〉（全解説 英語標準問題1100〈872〉）(226)
+It was (　　) a cold day that we decided not to go out.<choice 0:so|1:terribly|2:much|3:such|>
+such
+◇Next Stage〈369〉（全解説 英語標準問題1100〈855〉）(227)
+(　　) was his eloquence that everybody was moved to tears.<choice 0:What|1:Hardly|2:Such|3:When|>
+Such
+◇Next Stage〈370〉（全解説 英語標準問題1100〈857〉）(235)
+I need to mail a letter, (　　) I'll stop by the post office.<choice 0:or|1:but|2:then|3:so|>
+so
+◇Next Stage〈Point 088〉（全解説 英語標準問題1100〈827〉）(236)
+You'd better take your umbrella, just in (　　) it rains.<choice 0:case|1:time|2:order|3:fact|>
+case
+◇Next Stage〈374〉（全解説 頻出英文法・語法問題1000〈1192〉）(238)
+(　　) was Linda's disappointment that she burst into tears.<choice 0:It|1:This|2:So|3:Such|>
+Such
+◇Next Stage〈370〉（全解説 頻出英文法・語法問題1000〈899〉）(241)
+He opened his mouth (　　) to say “No,” but he didn't.<choice 0:as far|1:what if|2:as if|3:as much|>
+as if
+◇Next Stage〈363〉（センター試験過去問題）(242)
+You can fly to Chicago this evening (　　) you don't mind changing planes in Los Angeles.<choice 0:unless|1:provided|2:except|3:as far as|>
+provided
+◇Next Stage〈361〉（全解説 英文法ファイナル問題集 標準編〈419〉）(243)
+You may borrow my bicycle, (　　) you are careful with it.<choice 0:while|1:when|2:as long as|3:even if|>
+as long as
+◇Next Stage〈378〉（全解説 頻出英文法・語法問題1000〈887〉）(247)
+The trouble is, (　　) we get used to watching TV, we gradually come to watch it more and more.<choice 0:once|1:that|2:what|3:so|>
+once
+◇Next Stage〈376〉（全解説 頻出英文法・語法問題1000〈872〉）(248)
+You can wear my scarf (　　) you don't spill anything on it.<choice 0:as long as|1:even if|2:so that|3:unless|>
+as long as
+◇Next Stage〈378〉（全解説 頻出英文法・語法問題1000〈1016〉）(249)
+Write down his phone number before (　　).<choice 0:you don't forget|1:you forget|2:you won't forget|3:you'll forget|>
+you forget
+◇Next Stage〈345〉（全解説 英語標準問題1100〈863〉）(250)
+The laundry won't dry quickly (　　) it's sunny.<choice 0:since|1:if|2:whether|3:unless|>
+unless
+◇Next Stage〈360〉（センター試験過去問題）(252)
+In everything ― learning a foreign language or driving a car ― it is necessary to practice (　　) you can do it automatically.<choice 0:when|1:because|2:if|3:until|>
+until
+◇Next Stage〈348〉（全解説 英文法ファイナル問題集 標準編〈116〉）(254)
+I have to get my commuter pass renewed because it (　　) tomorrow.<choice 0:conceives|1:expires|2:activates|3:interferes|>
+expires
+◇Next Stage〈Point 094〉（センター試験過去問題）(255)
+(　　), I still say we drop the project, because it costs too much.<choice 0:Whereas the performance is good|1:Since the performance is good|2:Unless the performance is good|3:Even if the performance is good|>
+Even if the performance is good
+◇Next Stage〈365〉（全解説 頻出英文法・語法問題1000〈861〉）(256)
+(　　) you have begun to do something, never give it up.<choice 0:For|1:So far as|2:Once|3:Since|>
+Once
+◇Next Stage〈376〉（全解説 英語標準問題1100〈853〉）(260)
+It will not be long (　　) spring comes.<choice 0:after|1:before|2:while|3:for|>
+before
+◇Next Stage〈346〉（全解説 頻出英熟語問題1000〈基礎98〉）(262)
+Many newspapers printed the President's statement (　　) would support a tax cut.<choice 0:that he|1:what|2:was that he|3:which he|>
+that he
+◇Next Stage〈338〉（全解説 英文法ファイナル問題集 難関大学編〈122〉）(263)
+I had made all the necessary preparations to move into my new apartment, (　　) at the last minute, I found out pets were not allowed.<choice 0:furthermore|1:but|2:continuing|3:whether|>
+but
+◇Next Stage〈327〉（全解説 英文法ファイナル問題集 難関大学編〈120〉）(266)
+You couldn't turn the heat off (　　) the system was operating.<choice 0:as far as|1:as long as|2:so far as|3:as much as|>
+as long as
+◇Next Stage〈378〉（全解説 英語標準問題1100〈859〉）(267)
+(　　) I am aware, there were no problems during the first six months.<choice 0:As|1:So much as|2:While|3:As far as|>
+As far as
+◇Next Stage〈377〉（全解説 頻出英文法・語法問題1000〈1086〉）(268)
+Human behavior is mostly a product of learning, (　　) the behavior of an animal depends mainly on instinct.<choice 0:so|1:unless|2:that|3:whereas|>
+whereas
+◇Next Stage〈381〉（全解説 英語標準問題1100〈846〉）(270)
+Things cannot continue (　　).<choice 0:as it is|1:as they are|2:as it were|3:as it was|>
+as they are
+◇Next Stage〈384〉（全解説 英語標準問題1100〈878〉）(272)
+I will go away (　　) you tell me to.<choice 0:directly|1:lately|2:recently|3:quickly|>
+directly
+◆Next Stage〈354〉directly...「…するとすぐに」　【訳】君が出て行けと言えば，すぐに出て行くよ。(276)
+Supposing I (　　) to accept your request, how do you think the other students would feel?<choice 0:had been|1:be|2:were|3:am|>
+were
+◇Next Stage〈361〉（全解説 英文法ファイナル問題集 難関大学編〈172〉）(279)
+(　　) was his pride that he could not bring himself to ignore the insult.<choice 0:Such|1:Little|2:That|3:It|>
+Such
+◇Next Stage〈370〉（全解説 頻出英文法・語法問題1000〈1170〉）(280)
+My true birthday is not March 1 (　　) February 29.<choice 0:instead of|1:next to|2:rather than|3:but|>
+but
+◇Next Stage〈333〉（全解説 英語標準問題1100〈822〉）(282)
+(　　) he heard the fire bell, he rushed out of the room.<choice 0:In an instant|1:The moment|2:No sooner|3:To the minute|>
+The moment
+◇Next Stage〈353〉（全解説 頻出英文法・語法問題1000〈879〉）
+A: Are you going to be in town long?B: Yes, we'll be here (　　) Friday.<choice 0:for|1:by|2:during|3:until|>
+until
+◇Next Stage〈393〉（全解説 英語標準問題1100〈890〉）(2)
+(　　) my surprise, she didn't come to their wedding party.<choice 0:By|1:At|2:To|3:With|>
+To
+◆Next Stage〈410〉【訳】驚いたことに，彼女は彼らの結婚パーティーにやって来なかった。(3)
+They've just become seniors, so they'll graduate (　　) one more year.<choice 0:in|1:for|2:from|3:since|>
+in
+◇Next Stage〈390〉（センター試験過去問題）(4)
+(　　) many of us who just sat and watched what happened, Jane volunteered to help the victims of the accident.<choice 0:Despite|1:Opposite|2:Although|3:Unlike|>
+Unlike
+◇Next Stage〈422〉（全解説 英文法ファイナル問題集 難関大学編〈402〉）(6)
+You can hire a bicycle (　　) the hour at this shop.<choice 0:by|1:at|2:with|3:to|>
+by
+◇Next Stage〈399〉（全解説 頻出英文法・語法問題1000〈904〉）(7)
+This city is three hundred feet (　　) sea level.<choice 0:up|1:beyond|2:above|3:on|>
+above
+◇Next Stage〈396〉（全解説 頻出英文法・語法問題1000〈930〉）(8)
+She looked me (　　).<choice 0:by a face|1:in the face|2:by the face|3:in a face|>
+in the face
+◆Next Stage〈426〉　look A in the face「Aの顔を見る」△このlookは他動詞。look at A in the faceとは言わない。【訳】彼女は私の顔を見つめた。(9)
+(　　) our surprise, she has gone to Brazil alone.<choice 0:In|1:With|2:To|3:For|>
+To
+◇Next Stage〈410〉（全解説 頻出英文法・語法問題1000〈931〉）(10)
+The heavy rainfall has caused vegetable prices to rise daily (　　) the last two months.<choice 0:for|1:with|2:since|3:by|>
+for
+◇Next Stage〈391〉（センター試験過去問題）(11)
+Unfortunately, we do not have any apartments available (　　) furniture.<choice 0:at|1:with|2:on|3:in|>
+with
+◆Next Stage〈415〉　所有のwith「…を持って」△withは「…を持って／…の付いた」という所有の意味を表すことがある。【訳】残念ながら，当社には家具付きアパートの空室はありません。(12)
+The view from the hill was (　　) description.<choice 0:out of|1:far|2:over|3:beyond|>
+beyond
+◇Next Stage〈417〉（全解説 英文法ファイナル問題集 標準編〈253〉）(13)
+The boy caught the dog (　　) the tail.<choice 0:on|1:by|2:to|3:of|>
+by
+◇Next Stage〈425〉（全解説 英語標準問題1100〈932〉）(14)
+“I haven't seen Rob for a long time. Has he moved to another branch?”“Oh, you didn't know? He's no longer (　　) our company.”<choice 0:to|1:for|2:against|3:with|>
+with
+◇Next Stage〈Point 106〉（センター試験過去問題）(15)
+That professor is considered (　　) the most notable scientist in Japan.<choice 0:as|1:to|2:for|3:from|>
+as
+◆Next Stage〈423〉　前置詞as「…として」△asには，接続詞用法（→Point 102，p.143【整理35】）以外に，「…として」の意味の前置詞としての用法がある。【訳】あの教授は日本で最も著名な科学者だと思われている。(16)
+Sally is rather tall (　　) her age.<choice 0:to|1:at|2:for|3:of|>
+for
+◆Next Stage〈409〉　for one's age「年齢のわりには」△観点・基準のforを用いた成句表現。【訳】サリーは年齢のわりにはかなり背が高い。(17)
+I'm leaving here (　　) about a week.<choice 0:at|1:till|2:in|3:by|>
+in
+◇Next Stage〈390〉（全解説 英文法ファイナル問題集 難関大学編〈103〉）(18)
+Let's talk (　　) a cup of tea, shall we?<choice 0:over|1:at|2:on|3:in|>
+over
+◆Next Stage〈407〉　従事のover「…しながら」△overには「…しながら」という「従事」を表す用法がある。【!!注意】飲食物だけでなくover a book「本を読みながら」のようにも使う。【訳】お茶を飲みながら話しませんか。(19)
+The smart boy could solve all the difficult problems (　　) great ease.<choice 0:by|1:with|2:so|3:very|>
+with
+◇Next Stage〈405〉（全解説 頻出英熟語問題1000〈基礎61〉）(20)
+Hi! It's me. I'm sorry I'm late. I'm running (　　) the direction of the ticket gate. I'll be with you in a minute.<choice 0:within|1:in|2:to|3:of|>
+in
+◇Next Stage〈Point 105〉（センター試験過去問題）(21)
+We were waiting for him (　　) a cup of coffee.<choice 0:to|1:at|2:on|3:over|>
+over
+◇Next Stage〈407〉（全解説 英語標準問題1100〈920〉）(22)
+(　　) our surprise, Betty won the trophy.<choice 0:For|1:In|2:To|3:All|>
+To
+◇Next Stage〈410〉（全解説 英語標準問題1100〈919〉）(23)
+I came back to Japan for the first time (　　) five years.<choice 0:before|1:during|2:in|3:of|>
+in
+◇Next Stage〈395〉（全解説 英語標準問題1100〈921〉）(24)
+The judge finally settled everything (　　) everyone's satisfaction.<choice 0:in|1:from|2:to|3:with|>
+to
+◆Next Stage〈411〉　to A's satisfaction「Aが満足するように」△結果のto（→410）を用いたto A's satisfactionは，一般に文頭で用いて「Aが満足したことに」，文尾で用いて「Aが満足するように」の意味を表す。本問は後者の用例。【訳】すべての人が満足するように，裁判官は最終的にすべてのことを解決した。(25)
+I went skiing (　　) Mt. Zao last weekend.<choice 0:to|1:for|2:until|3:at|>
+at
+◆Next Stage〈398〉　go doingの後の前置詞△go skiingをはじめとするgo doingの形は，前置詞toではなく，doingに合わせた前置詞を用いる。go swimming in the river/go skating on the lake/go sightseeing in Londonなど。正誤問題などでも頻出。【訳】先週末，私は蔵王山にスキーに行った。(26)
+We talked about the matter (　　) a cup of coffee.<choice 0:in|1:over|2:according to|3:with|>
+over
+◇Next Stage〈407〉（全解説 英文法ファイナル問題集 標準編〈401〉）(27)
+“How long did you wait?” “(　　) six o'clock.”<choice 0:For|1:By|2:Until|3:On|>
+Until
+◆Next Stage〈393〉　until［till］「…まで（ずっと）」とby「…まで（には）」△前置詞until［till］とbyとの違いは，接続詞until［till］とby the timeの違い（→348，349）と同じ。△本問は，継続した状態・動作の終了の時点を表すuntilが入る。▲空所の後がsix o'clock「６時」であるから，①Forは不可。six hoursであれば，問題391のforを使って，For six hours.「６時間です」が正答になる。【訳】「どのくらい待った？」「6時までだよ」(28)
+Please refrain from talking (　　) the mobile phone near the priority seats in the train.<choice 0:at|1:on|2:in|3:by|>
+on
+◆Next Stage〈424〉　on［over］ the phone「電話で」△「電話で」は，on［over］ the phoneまたはby phoneで表す。【!!注意】「電話で」をbyで表す場合はby phoneのように無冠詞になるので，①byは使えない。【訳】電車内の優先席近くでは，携帯電話で話すことはひかえてください。(29)
+A number of cities, (　　) Manchester, wished to host the 2000 Summer Olympic Games.<choice 0:adding|1:containing|2:bearing|3:including|>
+including
+◇Next Stage〈Point 106〉（センター試験過去問題）(31)
+The next committee meeting will be held (　　) the 7th of January.<choice 0:on|1:in|2:at|3:of|>
+on
+◆Next Stage〈386〉【訳】次回の委員会は1月7日に開催されます。(32)
+Tomatoes are sold (　　) the pound.<choice 0:in|1:by|2:at|3:for|>
+by
+◇Next Stage〈399〉（全解説 英語標準問題1100〈886〉）(33)
+Susan is very thin, (　　) her sister, who is quite heavy.<choice 0:with|1:for|2:through|3:unlike|>
+unlike
+◇Next Stage〈422〉（全解説 英文法ファイナル問題集 標準編〈404〉）(34)
+You could visit me any day (　　) Sunday. I go to church every Sunday.<choice 0:but|1:on|2:with|3:of|>
+but
+◆Next Stage〈413〉　除外のbut＝except「…を除いて」△butには「…を除いて」というexceptの意味で前置詞として用いられる用法がある。【＋プラス】the last A but one「最後から２番目のA←１つを除いた最後のA」という表現もよく用いられる。【訳】日曜日以外ならいつでも私を訪ねてきてください。毎週日曜日は教会に行きます。(35)
+I can't understand this mathematics problem; it is (　　) me.<choice 0:ahead|1:beyond|2:up to|3:all over|>
+beyond
+◆Next Stage〈416〉【訳】この数学の問題がわかりません。それは私の能力を超えています。(36)
+I'm not worried about anything (　　) the money.<choice 0:less|1:mainly|2:except|3:more|>
+except
+◇Next Stage〈413〉（全解説 頻出英文法・語法問題1000〈946〉）(37)
+Please finish the essay (　　) the end of the class.<choice 0:until|1:by|2:during|3:while|>
+by
+◆Next Stage〈394〉　by「…まで（には）」（→393）【訳】授業が終わるまでに，その作文を書き終えてください。(38)
+To be a good interpreter, you need to be well-informed (　　) being a fluent speaker.<choice 0:also|1:beside|2:besides|3:in addition|>
+besides
+◇Next Stage〈412〉（全解説 英文法ファイナル問題集 難関大学編〈102〉）(39)
+I have been living in Canada (　　) almost five years.<choice 0:during|1:since|2:for|3:while|>
+for
+◇Next Stage〈391〉（全解説 英語標準問題1100〈892〉）(40)
+Don't talk (　　) your mouth full.<choice 0:over|1:during|2:with|3:when|>
+with
+◆Next Stage〈402〉　付帯状況のwith─with＋A＋形容詞△Point 056で「with＋A（名詞）＋分詞」の付帯状況表現を解説したが，そこで「with＋A＋形容詞／前置詞句／副詞」の用例についても述べた。本問は「with＋A＋形容詞」の用例。【訳】口に食べ物をいっぱい入れたまま話してはいけません。(41)
+The wall was so low that they could jump over it (　　).<choice 0:of ease|1:to ease|2:with ease|3:in ease|>
+with ease
+◆Next Stage〈405〉　with＋抽象名詞＝副詞△「with＋抽象名詞」の形で副詞と同じ働きをするものがある。本問はwith ease＝easilyの意味になる。【＋プラス】他に，with care＝carefully，with kindness＝kindly，with rapidity＝rapidly「速く」，with fluency＝fluently「流暢に」などを押さえておこう。【訳】その壁はとても低かったので，彼らは簡単に跳び越すことができた。(42)
+The president and the secretary talked (　　) a cup of coffee.<choice 0:of|1:on|2:over|3:off|>
+over
+◇Next Stage〈407〉（全解説 頻出英文法・語法問題1000〈941〉）(43)
+A policeman caught me (　　) arm.<choice 0:by an|1:with an|2:by the|3:with the|>
+by the
+◆Next Stage〈425〉　catch A by the arm「Aの腕をつかむ」△この表現は，まずA（人など）をつかんだことを明らかにし，その後の前置詞句でその部位（腕など）を表現するという英語独特の用法。【＋プラス】この種の表現では，前置詞の種類およびその句の中では定冠詞のtheが用いられるという２点が重要。【整理38】で，そのパターンを押さえること。【訳】警官が私の腕をつかんだ。(44)
+There was a full moon (　　) the forest.<choice 0:into|1:on|2:above|3:out|>
+above
+◆Next Stage〈396〉　above「（…から離れて）…の上に」【＋プラス】反意語はbelow。A above sea level「海抜A」/A below sea level「海面下A」はよく使われる表現。【訳】森の上には満月が出ていた。(45)
+My doctor always talks to me (　　) a teacher talking to a child.<choice 0:resemble|1:similar|2:like|3:same|>
+like
+◆Next Stage〈422〉　like「…のように」△likeには前置詞の用法があり，like Aで「Aのように／Aに似た／Aらしい」などの意味で用いられる。【＋プラス】like Aの反意語unlike A「Aと違って／Aに似ていない／Aらしくない」も重要。【訳】私のかかりつけの医者はいつも教師が子どもに話すように私に話す。(46)
+Fred is a friend I've known (　　) ten years.<choice 0:for|1:of|2:since|3:during|>
+for
+◆Next Stage〈391〉【訳】フレッドは私の10年来の友だちです。(48)
+The task is (　　) great importance to them.<choice 0:with|1:of|2:at|3:in|>
+of
+◇Next Stage〈404〉（全解説 頻出英熟語問題1000〈基礎53〉）(49)
+This city is 1,600 meters (　　) sea level.<choice 0:on|1:to|2:above|3:up|>
+above
+◇Next Stage〈396〉（全解説 英語標準問題1100〈924〉）(50)
+I'll leave Tokyo for Honolulu (　　) Friday evening.<choice 0:at|1:in|2:till|3:on|>
+on
+◇Next Stage〈387〉（全解説 英文法ファイナル問題集 標準編〈105〉）(52)
+He has two other children (　　) Alan.<choice 0:besides|1:except|2:on|3:without|>
+besides
+◆Next Stage〈412〉　追加のbesides「…の他に／…に加えて」△besidesは肯定文では「…の他に／…に加えて」の意味で「追加」を表す。②exceptは「…を除いて」の意味で「除外」を表す。日本語では，判断がつきにくいので要注意。△本問では，Alanも「彼の子ども」であるはずだから，「追加」のbesidesが入る。【＋プラス】besidesは主として疑問文・否定文で「…を除いて」（＝except）の意味で使われることもある。【!!注意】よく似た前置詞にbesideがあるが，これは「…のそばに」という意味。besidesと混同しないこと。【訳】彼には，アランの他にあと2人子どもがいます。(53)
+I met him (　　) the stairs as I was coming up.<choice 0:on|1:for|2:along|3:in|>
+on
+◇Next Stage〈397〉（全解説 英語標準問題1100〈902〉）(54)
+We entered a restaurant, and discussed the energy crisis (　　) our dinner.<choice 0:of|1:at|2:with|3:over|>
+over
+◇Next Stage〈407〉（全解説 頻出英文法・語法問題1000〈1130〉）(55)
+He was (　　) a mile of the hotel when it began to rain.<choice 0:hardly|1:only|2:in|3:within|>
+within
+◇Next Stage〈Point 106〉（センター試験過去問題）(56)
+In considering people for jobs, we give preference to those (　　) some experience.<choice 0:with|1:in|2:for|3:by|>
+with
+◇Next Stage〈415〉（全解説 英語標準問題1100〈898〉）(58)
+What he was trying to explain to me was (　　) my understanding.<choice 0:out|1:on|2:beyond|3:beside|>
+beyond
+◇Next Stage〈416〉（全解説 頻出英文法・語法問題1000〈1095〉）(59)
+This is the cafe famous and popular (　　) local residents as well as visitors.<choice 0:in|1:to|2:among|3:for|>
+among
+◆Next Stage〈420〉　among「…の中で」の用法△amongは，通例，複数（扱い）名詞を従えて，「…の中で／…の間に」の意味で用いられる。【!!注意】③inが，「…の中で」の意味で用いられる場合は，場所などを示す単数名詞を伴うのが原則。本問では不可。【訳】このカフェは有名で観光客はもとより地元住民の間でも人気がある。(60)
+(　　) Sunday, I'll meet my friend from Australia.<choice 0:In|1:For|2:At|3:On|>
+On
+◇Next Stage〈386〉（全解説 英文法ファイナル問題集 標準編〈103〉）(61)
+Today's high temperature set a new record. It's extremely hot (　　) this time of the year.<choice 0:about|1:on|2:in|3:for|>
+for
+◇Next Stage〈408〉（全解説 頻出英文法・語法問題1000〈951〉）(64)
+You shouldn't have gone to bed (　　).<choice 0:with the opened window|1:by the window opened|2:the window being opened|3:with the window open|>
+with the window open
+◇Next Stage〈402〉（全解説 英語標準問題1100〈922〉）(65)
+Jiro has invited us to his birthday party. What should we get him (　　) a gift?<choice 0:as|1:with|2:to|3:from|>
+as
+◇Next Stage〈423〉（センター試験過去問題）(66)
+This is the heaviest snowfall (　　) twenty years.<choice 0:after|1:in|2:at|3:on|>
+in
+◆Next Stage〈395〉　最上級＋in＋時間「…の間のうちで最も～」△前置詞inは，最上級やfirstやlastのある表現の後で「…の間のうちで」の意味を表す。本問は最上級の後で用いられたもの。【＋プラス】for the first time in five years「５年ぶりに←５年間で初めて」など「Aぶりに」の表現も押さえておこう。【訳】今回の降雪は，ここ20年で最もすごい。(67)
+The city has changed (　　) recognition.<choice 0:over|1:beyond|2:up|3:without|>
+beyond
+◇Next Stage〈417〉（全解説 頻出英熟語問題1000〈670〉）(68)
+(　　) what I could understand, they convinced the government to back down.<choice 0:From|1:About|2:As far as|3:By|>
+From
+◆Next Stage〈419〉【訳】私が理解できたことから判断すると，彼らは政府に非を認めさせた。(69)
+“Hello, may I speak to Mr.Simpson, please?”“I'm sorry, he's on another phone (　　) the moment.　Shall I tell him to call you back?”<choice 0:of|1:about|2:on|3:at|>
+at
+◇Next Stage〈Point 103〉（全解説 英語標準問題1100〈888〉）(70)
+(　　) the rain, we experienced heavy winds.<choice 0:Besides|1:Although|2:Despite|3:However|>
+Besides
+◇Next Stage〈412〉（全解説 頻出英文法・語法問題1000〈1071〉）(71)
+Tom married Nancy, (　　) all the advice to the contrary.<choice 0:because of|1:despite|2:although|3:since|>
+despite
+◇Next Stage〈418〉（全解説 英語標準問題1100〈941〉）(72)
+Three of my friends, (　　) me, were admitted to the bar.<choice 0:except|1:besides|2:along|3:save for|>
+besides
+◇Next Stage〈412〉（全解説 頻出英文法・語法問題1000〈948〉）(75)
+I'd like to finish this job (　　) lunch because I'll be out all afternoon.<choice 0:until|1:before|2:after|3:while|>
+before
+◇Next Stage〈Point 106〉（センター試験過去問題）(76)
+He started for London (　　) the morning of the seventh.<choice 0:in|1:on|2:to|3:at|>
+on
+◆Next Stage〈387〉　特定の朝を表すon▲一般的な朝を表す場合はin the morningとinを用いる。【訳】7日の午前中に，彼はロンドンに向かって出発した。(77)
+Tom is very tall (　　) his brothers and sisters.<choice 0:out of|1:in|2:among|3:unlike|>
+unlike
+◇Next Stage〈422〉（全解説 頻出英文法・語法問題1000〈945〉）(80)
+In 1955 my father died (　　) his aged mother still alive in a nursing home.<choice 0:with|1:of|2:on account of|3:besides|>
+with
+◇Next Stage〈402〉（全解説 英文法ファイナル問題集 難関大学編〈261〉）(81)
+The doctor worked for many years (　　) the villagers.<choice 0:to|1:among|2:in|3:within|>
+among
+◇Next Stage〈420〉（全解説 英語標準問題1100〈899〉）(83)
+The beautiful country scene was (　　) description.<choice 0:from|1:over|2:on|3:beyond|>
+beyond
+◇Next Stage〈417〉（全解説 英語標準問題1100〈928〉）(85)
+I parked my car (　　) the corner where the bank is.<choice 0:upon|1:at|2:for|3:into|>
+at
+◆Next Stage〈388〉【訳】私は，車を銀行のある角に止めた。(86)
+The price of rice rose (　　) more than three percent.<choice 0:in|1:with|2:by|3:from|>
+by
+◇Next Stage〈400〉（全解説 頻出英文法・語法問題1000〈1091〉）(87)
+She is putting a lot of posters (　　) the walls of her room.<choice 0:on|1:in|2:at|3:by|>
+on
+◆Next Stage〈397〉　場所を表すonの用法△onが場所を示す前置詞として用いられるのは，「接触」を前提にして，「面」を意識する場合と考えればよい。必ずしも「…の上」である必要はない。本問は，その典型的用例。【訳】彼女は，自分の部屋の壁にたくさんのポスターを貼っているところだ。(88)
+(　　) their severe early troubles, they ended up getting married.<choice 0:Because of|1:Despite|2:By way of|3:Due to|>
+Despite
+◆Next Stage〈418〉　譲歩を表すdespite「…にもかかわらず」△despite A＝in spite of A「Aにもかかわらず」（→811）の形で使われるdespiteは前置詞。よって，本問でのtheir severe early troublesのような名詞句を伴う。【訳】最初のころのつらい困難事にもかかわらず，彼らは結局，結婚した。(89)
+We sat (　　) the table for dinner.<choice 0:to|1:on|2:at|3:in|>
+at
+◇Next Stage〈388〉（全解説 英語標準問題1100〈903〉）(90)
+She used to visit the field hospital to console the sick and wounded soldiers (　　) Christmas Day every year.<choice 0:on|1:of|2:in|3:at|>
+on
+◇Next Stage〈386〉（全解説 英語標準問題1100〈887〉）(91)
+She looks very charming, dressed (　　) white.<choice 0:with|1:in|2:on|3:for|>
+in
+◇Next Stage〈406〉（全解説 頻出英文法・語法問題1000〈1045〉）(92)
+Is it possible for you to postpone today's meeting (　　) next Wednesday?<choice 0:on|1:until|2:by|3:in|>
+until
+◇Next Stage〈393〉（センター試験過去問題）(93)
+(　　) a cold night in February I had an unexpected visit from him.<choice 0:At|1:To|2:On|3:In|>
+On
+◇Next Stage〈387〉（全解説 頻出英文法・語法問題1000〈915〉）(94)
+It is very mild (　　) the middle of January.<choice 0:on|1:of|2:for|3:with|>
+for
+◆Next Stage〈408〉　観点・基準のfor「…のわりには」△forには「…のわりには」という観点・基準を表す用法がある。【訳】1月半ばのわりにはとても天気が穏やかです。(95)
+He was killed (　　) a sword.<choice 0:of|1:with|2:in|3:on|>
+with
+◇Next Stage〈414〉（全解説 英語標準問題1100〈910〉）(96)
+If the weather is fine, I'll go swimming (　　) the river.<choice 0:to|1:on|2:under|3:in|>
+in
+◇Next Stage〈398〉（全解説 英語標準問題1100〈908〉）(97)
+Jack is taller than I (　　) three inches.<choice 0:with|1:for|2:by|3:in|>
+by
+◇Next Stage〈400〉（全解説 頻出英文法・語法問題1000〈532〉）(98)
+Jenny couldn't look me (　　) the eye.<choice 0:under|1:in|2:behind|3:over|>
+in
+◇Next Stage〈426〉（全解説 英語標準問題1100〈933〉）(99)
+The problem is (　　) my power.<choice 0:along|1:without|2:beyond|3:behind|>
+beyond
+◇Next Stage〈416〉（全解説 頻出英熟語問題1000〈671〉）(100)
+The scale on a map is used to measure distances (　　) two points.<choice 0:between|1:of|2:in|3:among|>
+between
+◇Next Stage〈421〉（全解説 英語標準問題1100〈900〉）(102)
+This problem is too difficult. It's (　　) me.<choice 0:below|1:behind|2:beside|3:beyond|>
+beyond
+◇Next Stage〈416〉（全解説 頻出英文法・語法問題1000〈938〉）(103)
+The coffee shop opens at 7:30 and serves breakfast (　　) 10 o'clock.<choice 0:by|1:for|2:within|3:till|>
+till
+◇Next Stage〈393〉（センター試験過去問題）(104)
+“How was his lecture?”“Well, I don't quite remember what he said.　Actually, it was so boring that I fell asleep (　　) it.”<choice 0:for|1:in|2:during|3:while|>
+during
+◇Next Stage〈392〉（全解説 英語標準問題1100〈893〉）(105)
+The land will be sold only (　　).<choice 0:to acres|1:in acre|2:for an acre|3:by the acre|>
+by the acre
+◆Next Stage〈399〉　単位を表すby the A「A単位に／Aぎめで」△by the Aと必ずtheを用いること，Aには単位を表す名詞が来ることを押さえる。cf. by the hour「時間ぎめで」【訳】その土地は，1エーカー単位でのみ売られるだろう。(106)
+(　　) four years in Greece, Taro longed for the familiar sights of Kyoto.<choice 0:As|1:Since|2:By|3:After|>
+After
+◇Next Stage〈Point 106〉（センター試験過去問題）(107)
+That girl (　　) the red sweat suit runs around the track every morning.<choice 0:in|1:to|2:at|3:for|>
+in
+◆Next Stage〈406〉　着衣のin△衣服などを身につけていることを示す場合，inを用いる。【＋プラス】in red［white］だけでも「赤い［白い］服を身につけて」の意味になる。【訳】赤いトレーニングスーツを着たあの少女は，毎朝トラックを走っている。(108)
+No one ever knew the true story (　　) the three of us.<choice 0:beside|1:without|2:except|3:until|>
+except
+◇Next Stage〈413〉（全解説 英語標準問題1100〈931〉）(109)
+More and more videos were being rented in Britain, yet the number of movie tickets sold (　　) 81 percent from 53 to 96 million.<choice 0:increased by|1:decreased less than|2:decreased to|3:increased up to|>
+increased by
+◇Next Stage〈400〉（センター試験過去問題）(110)
+Kim is older than I am (　　) four years.<choice 0:in|1:by|2:for|3:of|>
+by
+◇Next Stage〈400〉（全解説 英語標準問題1100〈912〉）(112)
+In Japan most workers are paid (　　) the month.<choice 0:by|1:at|2:on|3:for|>
+by
+◇Next Stage〈399〉（全解説 英文法ファイナル問題集 標準編〈102〉）(113)
+She will arrive here (　　) 5 o'clock.<choice 0:since|1:by|2:until|3:later|>
+by
+◇Next Stage〈394〉（全解説 英語標準問題1100〈891〉）(116)
+No child (　　) the age of sixteen will be admitted to the theater.<choice 0:under|1:down|2:until|3:except|>
+under
+◇Next Stage〈Point 106〉（センター試験過去問題）(119)
+“Have you handed in the English assignment?”“No, but I'm halfway (　　) it.”<choice 0:around|1:across|2:over|3:through|>
+through
+◇Next Stage〈Point 106〉（センター試験過去問題）(120)
+These two streets separate (　　) the branches of a Y.<choice 0:by|1:on|2:like|3:from|>
+like
+◇Next Stage〈422〉（全解説 頻出英文法・語法問題1000〈944〉）(122)
+(　　) what I hear, he left a large fortune to his son.<choice 0:From|1:According|2:In|3:To|>
+From
+◇Next Stage〈419〉（全解説 英語標準問題1100〈935〉）(123)
+(　　) having inherited plenty of property, she owed a lot of money.<choice 0:So|1:Despite|2:In spite|3:However|>
+Despite
+◇Next Stage〈418〉（全解説 英文法ファイナル問題集 標準編〈402〉）(124)
+The controversy over the construction of the new power plant is now at its height. Are you (　　) or against the plan?<choice 0:for|1:with|2:in|3:to|>
+for
+◇Next Stage〈401〉（全解説 英文法ファイナル問題集 標準編〈106〉）(125)
+The beauty of the sunset was (　　) description.<choice 0:over|1:above|2:across|3:beyond|>
+beyond
+◆Next Stage〈417〉　beyond description「言葉では表現できないほど」△beyond A（→416）を用いた成句表現beyond description「言葉では表現できないほど」を作る。なお，成句表現では③aboveは使えない。【＋プラス】beyondを使った成句表現として，以下のものも重要。　・beyond recognition「見分けがつかないほど」　・beyond belief「信じられないほど」　・beyond reach「手の届かないほど」【訳】日没の美しさは，言葉では表せないほどだった。(126)
+Ted Carson was born (　　) at 10:30 in the morning.<choice 0:on New York by August 7, 1944|1:in New York in August 7, 1944|2:on New York at August 7, 1944,|3:in New York on August 7, 1944,|>
+in New York on August 7, 1944,
+◆Next Stage〈389〉　広い場所を表すin△「日」を表すon，「時の１点」を表すat，一般的な朝を表すin the morningが使われていることも確認しよう。【訳】テッド・カーソンは1944年8月7日午前10時30分にニューヨークで生まれた。(127)
+She shook the child roughly (　　) the arm.<choice 0:under|1:with|2:by|3:on|>
+by
+◇Next Stage〈425〉（全解説 頻出英文法・語法問題1000〈950〉）(129)
+I happened to be at Shibuya Station yesterday morning. What crowds of people! I've never seen anything (　　) that.<choice 0:more|1:than|2:like|3:less|>
+like
+◇Next Stage〈422〉（全解説 英文法ファイナル問題集 標準編〈403〉）(130)
+When I shook hands with Mrs. Jones, I told her that if I could be (　　) any use to her I should be very glad.<choice 0:with|1:at|2:in|3:of|>
+of
+◇Next Stage〈404〉（全解説 頻出英文法・語法問題1000〈1059〉）(133)
+We shall go on studying this book (　　) the end of the year.<choice 0:by|1:since|2:till|3:for|>
+till
+◇Next Stage〈393〉（全解説 頻出英文法・語法問題1000〈907〉）(135)
+I'm afraid I left my pen in my office. Do you have something to write (　　)?<choice 0:for|1:to|2:by|3:with|>
+with
+◆Next Stage〈414〉　道具のwith「…を使って」△withには，「…を使って／…で」という道具・手段を表す用法がある。【訳】あいにくオフィスにペンを忘れた。何か書くものを持っていますか。(138)
+(　　) his many hours of study, he did not make much progress in German.<choice 0:Despite|1:Besides|2:Instead of|3:Because of|>
+Despite
+◇Next Stage〈418〉（全解説 頻出英文法・語法問題1000〈952〉）(141)
+(　　) his brothers, who both play the piano, Rick has no musical talent at all.<choice 0:Because of|1:Unlike|2:As to|3:Between|>
+Unlike
+◇Next Stage〈422〉（センター試験過去問題）(144)
+The population in this city rose (　　) 15,000 last year to 2.5 million.<choice 0:into|1:at|2:with|3:by|>
+by
+◇Next Stage〈400〉（全解説 頻出英文法・語法問題1000〈940〉）(148)
+John talked with his customer (　　) the phone.<choice 0:to|1:by|2:on|3:with|>
+on
+◇Next Stage〈424〉（全解説 英語標準問題1100〈929〉）(149)
+The low temperature this week has ranged (　　) five and ten degrees.<choice 0:between|1:for|2:to|3:from|>
+between
+◆Next Stage〈421〉between「…（２者）の間に」の用法─amongとの違い　【訳】今週の最低気温は5度から10度の範囲で推移している。(151)
+“Have you finished the preparation for your social studies debate?”“Yes, I talked about it with our group members (　　) lunch.”<choice 0:with|1:over|2:across|3:on|>
+over
+◇Next Stage〈407〉（センター試験過去問題）(152)
+I will go now and will be back (　　) about an hour.<choice 0:in|1:on|2:by|3:with|>
+in
+◆Next Stage〈390〉　経過を表すin「今から…で／…経つと」【＋プラス】「…以内に」の意味ではwithinを用いることも押さえておこう。You will get there within［in］ two hours.　（君は２時間以内に［２時間で］そこに着くだろう）【訳】今から出かけて1時間ほどで戻ってきます。(153)
+Peter, teaching in Japan, talks with his parents in the United States (　　) the phone at least once a week.<choice 0:in|1:to|2:by|3:on|>
+on
+◇Next Stage〈424〉（全解説 頻出英熟語問題1000〈337〉）(155)
+I found most of the questions easy.　But the last one was (　　) me.<choice 0:beyond|1:out of|2:beside|3:over|>
+beyond
+◇Next Stage〈416〉（全解説 英語標準問題1100〈927〉）(158)
+I don't like my job. I spend most of my time talking (　　) the phone.<choice 0:on|1:in|2:at|3:for|>
+on
+◇Next Stage〈424〉（全解説 英文法ファイナル問題集 標準編〈255〉）(159)
+The children were walking in a line with one teacher (　　) and one behind.<choice 0:in front of|1:in front|2:front|3:front of|>
+in front
+◇Next Stage〈403〉（センター試験過去問題）(161)
+Please have a good vacation. I'll see you (　　) a week.<choice 0:till|1:on|2:in|3:by|>
+in
+◇Next Stage〈390〉（全解説 英文法ファイナル問題集 標準編〈101〉）(163)
+Don't worry.　They will be back (　　) a short time.<choice 0:in|1:for|2:of|3:before|>
+in
+◇Next Stage〈390〉（全解説 英語標準問題1100〈894〉）(168)
+Mt. Fuji is 3,776 meters (　　) sea level.<choice 0:above|1:over|2:beyond|3:on|>
+above
+◇Next Stage〈396〉（全解説 英文法ファイナル問題集 難関大学編〈101〉）(172)
+The coach encouraged me, tapping me (　　) the shoulder.<choice 0:on|1:at|2:over|3:in|>
+on
+◆Next Stage〈427〉tap A on the shoulder「Aの肩を軽くたたく」　【訳】コーチは私の肩を軽くたたきながら，励ましてくれた。(179)
+The patient is in a state which can only be described (　　) very serious.<choice 0:as|1:by|2:like|3:with|>
+as
+◇Next Stage〈423〉（全解説 英文法ファイナル問題集 難関大学編〈264〉）(180)
+“Which movie would you like to go to?”“Well, (　　) the movies that are showing now, London Holiday is the only one in English.”<choice 0:all from|1:from all|2:of all|3:all of|>
+of all
+◇Next Stage〈Point 106〉（センター試験過去問題）(185)
+Robin suddenly began to feel nervous (　　) the interview.<choice 0:while|1:until|2:during|3:by|>
+during
+◇Next Stage〈392〉（センター試験過去問題）(187)
+My sister is in the front row in the picture. She is the one (　　) in her hands.<choice 0:of some things|1:with anything|2:with nothing|3:of everything|>
+with nothing
+◇Next Stage〈403〉（センター試験過去問題）(191)
+(　　) a sultry night in August, I had an unexpected visit from Tom Jones.<choice 0:On|1:For|2:In|3:At|>
+On
+◇Next Stage〈387〉（全解説 頻出英文法・語法問題1000〈1011〉）(192)
+That bus will get her to Osaka (　　) five hours.<choice 0:with|1:for|2:in|3:at|>
+in
+◇Next Stage〈390〉（全解説 頻出英文法・語法問題1000〈909〉）(193)
+I went back to my hometown for the first time (　　) ten years.<choice 0:during|1:in|2:of|3:before|>
+in
+◇Next Stage〈395〉（全解説 頻出英文法・語法問題1000〈914〉）(196)
+Since these glasses can break easily, you must handle them with (　　) .<choice 0:care|1:danger|2:trouble|3:ease|>
+care
+◇Next Stage〈405〉（センター試験過去問題）(198)
+If we take a taxi, we'll get home (　　) 8 p.m.<choice 0:until|1:by|2:in|3:for|>
+by
+◇Next Stage〈394〉（全解説 英文法ファイナル問題集 標準編〈104〉）(199)
+The boy is tall (　　) his age.<choice 0:of|1:for|2:at|3:to|>
+for
+◇Next Stage〈409〉（全解説 頻出英熟語問題1000〈359〉）(203)
+We went to Hiyoshi (　　) my friend's car.<choice 0:on|1:in|2:by|3:with|>
+in
+◇Next Stage〈Point 103〉（全解説 英語標準問題1100〈901〉）(204)
+When it is hot, one usually sees him (　　) white.<choice 0:by|1:with|2:in|3:of|>
+in
+◇Next Stage〈406〉（全解説 英語標準問題1100〈911〉）(206)
+(　　) being a doctor, he was a very famous novelist.<choice 0:Beyond|1:Below|2:Besides|3:Over|>
+Besides
+◇Next Stage〈412〉（全解説 英語標準問題1100〈930〉）(209)
+Are you for or (　　) his proposal?<choice 0:before|1:under|2:against|3:to|>
+against
+◆Next Stage〈401〉賛成のfor／反対のagainst　【訳】あなたは彼の提案に賛成ですか，それとも反対ですか。(211)
+Let's go swimming (　　).<choice 0:in Lake Biwa|1:Lake Biwa|2:down Lake Biwa|3:to Lake Biwa|>
+in Lake Biwa
+◇Next Stage〈398〉（全解説 英文法ファイナル問題集 難関大学編〈259〉）
