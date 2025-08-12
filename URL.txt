@@ -1,16 +1,52 @@
 [
     {
-        "URL": "https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/NextStage_22%EF%BD%9E24%E7%AB%A0.txt",
-        "Title": "",
-        "Ex": "Next Stage 1~5章"
-    },
-    {"URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/%E8%8B%B1%E6%A4%9C%E6%BA%96%E4%B8%80%E7%B4%9A%E5%8D%98%E8%AA%9E.txt",
-    "Title":"【英語】英検準一級単語",
-    "Ex":"英検準一級合格に必要な単語を学ぼう"
+     "URL": "https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS1to5.txt",
+     "Title": "Next Stage 1~5章"
     },
     {
-    "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/%E5%8F%A4%E5%85%B8%E5%8A%A9%E5%8B%95%E8%A9%9E.txt",
-    "Title":"【古典】古典助動詞の意味",
-    "Ex":"古文読解に欠かせない助動詞を学ぼう"
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS6to8.txt",
+     "Title":"Next Stage 6~8章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS9to10.txt",
+     "Title":"Next Stage 9~10章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS11to12.txt",
+     "Title":"Next Stage 11~12章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS13to16.txt",
+     "Title":"Next Stage 13~16章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS17to19.txt",
+     "Title":"Next Stage 17~19章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS20.txt",
+     "Title":"Next Stage 20章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS21to24.txt",
+     "Title":"Next Stage 21~24章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS25to26.txt",
+     "Title":"Next Stage 25~26章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/ENG-NS27.txt",
+     "Title":"Next Stage 27章"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/%E8%8B%B1%E6%A4%9C%E6%BA%96%E4%B8%80%E7%B4%9A%E5%8D%98%E8%AA%9E.txt",
+     "Title":"【英語】英検準一級単語",
+     "Ex":"英検準一級合格に必要な単語を学ぼう"
+    },
+    {
+     "URL":"https://raw.githubusercontent.com/Nyakun8810/Anki-3.0/refs/heads/main/%E5%8F%A4%E5%85%B8%E5%8A%A9%E5%8B%95%E8%A9%9E.txt",
+     "Title":"【古典】古典助動詞の意味",
+     "Ex":"古文読解に欠かせない助動詞を学ぼう"
     }
 ]
